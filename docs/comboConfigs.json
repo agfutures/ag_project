@@ -498,24 +498,6 @@
           { "key": "Attributes",   "field": "Attributes", "type": "single", "defaultAll": true }
         ],
         "viz": ["ErsWeekly"]
-      },
-      "Cummulative": {
-        "filters": [
-          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
-          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
-          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
-          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
-        ],
-        "viz": ["Cummulative"]
-      },
-      "ErsData": {
-        "filters": [
-          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
-          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
-          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
-          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
-        ],
-        "viz": ["ErsData"]
       }
     }
   }
