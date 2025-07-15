@@ -489,7 +489,7 @@
     }
   },
   "Corn_Ers": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/ers_CORN.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/ers_CORN.csv",
     "visuals": {
       "ErsWeekly": {
         "filters": [
