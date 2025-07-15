@@ -1,6 +1,6 @@
 {
   "Corn_Wasde_World": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Corn.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/wasde_Corn.json",
     "visuals": {
       "Historical": {
         "filters": [
@@ -37,7 +37,7 @@
     }
   },
   "Soybeans_Wasde_World": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Soybean.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/wasde_Soybean.json",
     "visuals": {
       "Historical": {
         "filters": [
@@ -74,7 +74,7 @@
     }
   },
   "Soybean_Meal_Wasde_World": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Soybean%20Meal.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/wasde_Soybean%20Meal.json",
     "visuals": {
       "Historical": {
         "filters": [
@@ -111,7 +111,7 @@
     }
   },
   "Soybean_Oil_Wasde_World": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Soybean%20Oil.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/wasde_Soybean%20Oil.json",
     "visuals": {
       "Historical": {
         "filters": [
@@ -148,7 +148,7 @@
     }
   },
   "Wheat_Wasde_World": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Wheat.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/wasde_Wheat.json",
     "visuals": {
       "Historical": {
         "filters": [
@@ -185,7 +185,7 @@
     }
   },
   "Corn_Wasde_US": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Corn_US.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/wasde_Corn_US.json",
     "visuals": {
       "Data_table": {
         "filters": [
@@ -208,7 +208,7 @@
     }
   },
   "Soybeans_Wasde_US": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Soybean_US.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/wasde_Soybean_US.json",
     "visuals": {
       "Data_table": {
         "filters": [
@@ -231,7 +231,7 @@
     }
   },
   "Corn_US_Progress": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/progress_CORN.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/progress_CORN.json",
     "visuals": {
       "ProgressAll": {
         "filters": [
@@ -263,7 +263,7 @@
     }
   },
   "Soybeans_US_Progress": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/progress_SOYBEANS.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/progress_SOYBEANS.json",
     "visuals": {
       "ProgressAll": {
         "filters": [
@@ -295,7 +295,7 @@
     }
   },
   "Wheat_US_Progress": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/progress_WHEAT.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/progress_WHEAT.json",
     "visuals": {
       "ProgressAll": {
         "filters": [
@@ -327,7 +327,7 @@
     }
   },
   "Corn_US_Condition": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/condition_CORN.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/condition_CORN.json",
     "visuals": {
       "Choropleth": {
         "filters": [
@@ -358,7 +358,7 @@
     }
   },
   "Soybeans_US_Condition": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/condition_SOYBEANS.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/condition_SOYBEANS.json",
     "visuals": {
       "Choropleth": {
         "filters": [
@@ -389,7 +389,7 @@
     }
   },
   "Wheat_US_Condition": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/condition_WHEAT.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/condition_WHEAT.json",
     "visuals": {
       "Choropleth": {
         "filters": [
@@ -422,7 +422,7 @@
   },
   
   "Corn_Stocks": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/stocks_CORN.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/stocks_CORN.json",
     "visuals": {
       "Stocks": {
         "filters": [
@@ -444,7 +444,7 @@
     }
   },
   "Soybeans_Stocks": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/stocks_SOYBEANS.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/stocks_SOYBEANS.json",
     "visuals": {
       "Stocks": {
         "filters": [
@@ -466,7 +466,7 @@
     }
   },
   "Wheat_Stocks": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/stocks_WHEAT.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/stocks_WHEAT.json",
     "visuals": {
       "Stocks": {
         "filters": [
@@ -489,7 +489,7 @@
     }
   },
   "Corn_Ers": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/ers_CORN.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/ers_CORN.json",
     "visuals": {
       "ErsWeekly": {
         "filters": [
