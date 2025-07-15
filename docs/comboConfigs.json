@@ -1,0 +1,522 @@
+{
+  "Corn_Wasde_World": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Corn.json",
+    "visuals": {
+      "Historical": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeChart"]
+      },
+      "Data_table": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeTable"]
+      },
+      "Monthly_Changes": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "default": "Production" },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultCount": 5 },
+          { "key": "Region",      "field": "Region",      "type": "select",      "default": "United States" }
+        ],
+        "viz": ["WasdeChanges"]
+      },
+      "Global_snapshot": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["WasdeGlobal"]
+      }
+    }
+  },
+  "Soybeans_Wasde_World": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Soybean.json",
+    "visuals": {
+      "Historical": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeChart"]
+      },
+      "Data_table": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeTable"]
+      },
+      "Monthly_Changes": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "default": "Production" },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultCount": 5 },
+          { "key": "Region",      "field": "Region",      "type": "select",      "default": "United States" }
+        ],
+        "viz": ["WasdeChanges"]
+      },
+      "Global_snapshot": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["WasdeGlobal"]
+      }
+    }
+  },
+  "Soybean_Meal_Wasde_World": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Soybean%20Meal.json",
+    "visuals": {
+      "Historical": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeChart"]
+      },
+      "Data_table": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeTable"]
+      },
+      "Monthly_Changes": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "default": "Production" },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultCount": 5 },
+          { "key": "Region",      "field": "Region",      "type": "select",      "default": "United States" }
+        ],
+        "viz": ["WasdeChanges"]
+      },
+      "Global_snapshot": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["WasdeGlobal"]
+      }
+    }
+  },
+  "Soybean_Oil_Wasde_World": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Soybean%20Oil.json",
+    "visuals": {
+      "Historical": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeChart"]
+      },
+      "Data_table": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeTable"]
+      },
+      "Monthly_Changes": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "default": "Production" },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultCount": 5 },
+          { "key": "Region",      "field": "Region",      "type": "select",      "default": "United States" }
+        ],
+        "viz": ["WasdeChanges"]
+      },
+      "Global_snapshot": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["WasdeGlobal"]
+      }
+    }
+  },
+  "Wheat_Wasde_World": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Wheat.json",
+    "visuals": {
+      "Historical": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeChart"]
+      },
+      "Data_table": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" }
+        ],
+        "viz": ["WasdeTable"]
+      },
+      "Monthly_Changes": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "default": "Production" },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultCount": 5 },
+          { "key": "Region",      "field": "Region",      "type": "select",      "default": "United States" }
+        ],
+        "viz": ["WasdeChanges"]
+      },
+      "Global_snapshot": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["WasdeGlobal"]
+      }
+    }
+  },
+  "Corn_Wasde_US": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Corn_US.json",
+    "visuals": {
+      "Data_table": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Corn" }
+        ],
+        "viz": ["WasdeTable"]
+      },
+      "Historical": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Corn" }
+        ],
+        "viz": ["WasdeChart"]
+      }
+    }
+  },
+  "Soybeans_Wasde_US": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/wasde_Soybean_US.json",
+    "visuals": {
+      "Data_table": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Corn" }
+        ],
+        "viz": ["WasdeTable"]
+      },
+      "Historical": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Corn" }
+        ],
+        "viz": ["WasdeChart"]
+      }
+    }
+  },
+  "Corn_US_Progress": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/progress_CORN.json",
+    "visuals": {
+      "ProgressAll": {
+        "filters": [
+          { "key": "Attribute", "field": "unit_desc",    "type": "multiselect", "defaultAll": true  },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "single",      "default": "US" },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" }
+        ],
+        "viz": ["ProgressAll"]
+      },
+      "Choropleth": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "single",      "default": "PCT SILKING" },
+          { "key": "CropYear",   "field": "year",         "type": "single",      "defaultMostRecent": true },
+          { "key": "Week",       "field": "week_ending",  "type": "single",      "defaultMostRecent": true },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" }
+        ],
+        "viz": ["Choropleth"]
+      },
+      "Data": {
+        "filters": [
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" },
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["Data"]
+      }
+    }
+  },
+  "Soybeans_US_Progress": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/progress_SOYBEANS.json",
+    "visuals": {
+      "ProgressAll": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "single",      "default": "US" },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" }
+        ],
+        "viz": ["ProgressAll"]
+      },
+      "Choropleth": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "single",      "default": "PCT BLOOMING" },
+          { "key": "CropYear",   "field": "year",         "type": "single",      "defaultMostRecent": true },
+          { "key": "Week",       "field": "week_ending",  "type": "single",      "defaultMostRecent": true },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" }
+        ],
+        "viz": ["Choropleth"]
+      },
+      "Data": {
+        "filters": [
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" },
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["Data"]
+      }
+    }
+  },
+  "Wheat_US_Progress": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/progress_WHEAT.json",
+    "visuals": {
+      "ProgressAll": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "single",      "default": "US" },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "WINTER" }
+        ],
+        "viz": ["ProgressAll"]
+      },
+      "Choropleth": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "single",      "default": "PCT PLANTED" },
+          { "key": "CropYear",   "field": "year",         "type": "single",      "defaultMostRecent": true },
+          { "key": "Week",       "field": "week_ending",  "type": "single",      "defaultMostRecent": true },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "WINTER" }
+        ],
+        "viz": ["Choropleth"]
+      },
+      "Data": {
+        "filters": [
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" },
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["Data"]
+      }
+    }
+  },
+  "Corn_US_Condition": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/condition_CORN.json",
+    "visuals": {
+      "Choropleth": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "default": "PCT GOOD" },
+          { "key": "CropYear",   "field": "year",         "type": "single",      "defaultMostRecent": true },
+          { "key": "Week",       "field": "week_ending",  "type": "single",      "defaultMostRecent": true },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" }
+        ],
+        "viz": ["Choropleth"]
+      },
+      "Condition": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "single",      "default": "US" }
+        ],
+        "viz": ["Condition"]
+      },
+      "Data": {
+        "filters": [
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" },
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["Data"]
+      }
+    }
+  },
+  "Soybeans_US_Condition": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/condition_SOYBEANS.json",
+    "visuals": {
+      "Choropleth": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "default": "PCT GOOD" },
+          { "key": "CropYear",   "field": "year",         "type": "single",      "defaultMostRecent": true },
+          { "key": "Week",       "field": "week_ending",  "type": "single",      "defaultMostRecent": true },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" }
+        ],
+        "viz": ["Choropleth"]
+      },
+      "Condition": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "single",      "default": "US" }
+        ],
+        "viz": ["Condition"]
+      },
+      "Data": {
+        "filters": [
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" },
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["Data"]
+      }
+    }
+  },
+  "Wheat_US_Condition": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/condition_WHEAT.json",
+    "visuals": {
+      "Choropleth": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "default": "PCT GOOD" },
+          { "key": "CropYear",   "field": "year",         "type": "single",      "defaultMostRecent": true },
+          { "key": "Week",       "field": "week_ending",  "type": "single",      "defaultMostRecent": true },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "WINTER" }
+        ],
+        "viz": ["Choropleth"]
+      },
+      "Condition": {
+        "filters": [
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "single",      "default": "US" },
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "WINTER" }
+        ],
+        "viz": ["Condition"]
+      },
+      "Data": {
+        "filters": [
+          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" },
+          { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["Data"]
+      }
+    }
+  },
+  
+  "Corn_Stocks": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/stocks_CORN.json",
+    "visuals": {
+      "Stocks": {
+        "filters": [
+          { "key": "Type",     "field": "util_practice_desc",  "type": "multiselect",  "defaultAll": true },
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect",  "default": "US" },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["Stocks"]
+      },
+      "StocksData": {
+        "filters": [
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
+          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
+        ],
+        "viz": ["StocksData"]
+      }
+    }
+  },
+  "Soybeans_Stocks": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/stocks_SOYBEANS.json",
+    "visuals": {
+      "Stocks": {
+        "filters": [
+          { "key": "Type",     "field": "util_practice_desc",  "type": "multiselect",  "defaultAll": true  },
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect",  "default": "US" },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["Stocks"]
+      },
+      "StocksData": {
+        "filters": [
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
+          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
+        ],
+        "viz": ["StocksData"]
+      }
+    }
+  },
+  "Wheat_Stocks": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/stocks_WHEAT.json",
+    "visuals": {
+      "Stocks": {
+        "filters": [
+          { "key": "Type",     "field": "util_practice_desc",  "type": "multiselect",  "defaultAll": true  },
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect",  "default": "US" },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
+        ],
+        "viz": ["Stocks"]
+      },
+      "StocksData": {
+        "filters": [
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
+          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
+        ],
+        "viz": ["StocksData"]
+      }
+    }
+  },
+  "Corn_Ers": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/json_all/main/ers_CORN.json",
+    "visuals": {
+      "ErsWeekly": {
+        "filters": [
+          { "key": "Country",     "field": "Country",  "type": "multiselect",  "defaultAll": true  },
+          { "key": "Year",     "field": "MarketYear",  "type": "multiselect",  "defaultAll": true},
+          { "key": "Attributes",   "field": "Attributes", "type": "single", "defaultAll": true }
+        ],
+        "viz": ["ErsWeekly"]
+      },
+      "Cummulative": {
+        "filters": [
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
+          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
+        ],
+        "viz": ["Cummulative"]
+      },
+      "ErsData": {
+        "filters": [
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
+          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
+        ],
+        "viz": ["ErsData"]
+      }
+    }
+  }
+}
