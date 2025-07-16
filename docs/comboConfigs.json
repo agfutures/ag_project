@@ -495,7 +495,7 @@
         "filters": [
           { "key": "Country",     "field": "Country",  "type": "multiselect",  "defaultAll": true  },
           { "key": "Year",     "field": "MarketYear",  "type": "multiselect",  "defaultAll": true},
-          { "key": "Attributes",   "field": "Attributes", "type": "single", "default": "Weekly_Exports" }
+          { "key": "Attributes", "type": "single", "option": ["Weekly_Exports","CMY_Net_Sales","CMY_Gross_Sales"],"default": "Weekly_Exports" }
         ],
         "viz": ["ErsWeekly"]
       }
