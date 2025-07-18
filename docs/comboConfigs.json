@@ -17,7 +17,7 @@
           { "key": "Region",      "field": "Region",      "type": "multiselect", "defaultAll": true }
         ],
         "viz": ["WasdeGlobal"]
-      }
+      },
       "Data_table": {
         "filters": [
           { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
