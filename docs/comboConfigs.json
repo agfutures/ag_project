@@ -513,6 +513,14 @@
           { "key": "Year",     "field": "MarketYear",  "type": "multiselect",  "defaultCount": 5}
         ],
         "viz": ["ErsCountries"]
+      },
+      "ErsData": {
+        "filters": [
+          { "key": "Country",     "field": "Country",  "type": "multiselect",  "defaultAll": true  },
+          { "key": "Year",     "field": "MarketYear",  "type": "multiselect",  "defaultMostRecent": true},
+          { "key": "WeekEnding",     "field": "WeekEnding",  "type": "multiselect",  "defaultMostRecent": true}
+        ],
+        "viz": ["ErsData"]
       }
     }
   }
