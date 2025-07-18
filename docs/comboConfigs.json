@@ -506,6 +506,13 @@
           { "key": "Attributes", "type": "single", "options": ["Accum_Exports","CMY_Outstanding_Sales","CMY_Total_Commitments", "NMY_Outstanding_Sales"],"default": "CMY_Total_Commitments" }
         ],
         "viz": ["ErsCummulative"]
+      },
+      "ErsCountries": {
+        "filters": [
+          { "key": "Country",     "field": "Country",  "type": "multiselect",  "defaultAll": true  },
+          { "key": "Year",     "field": "MarketYear",  "type": "multiselect",  "defaultAll": true}
+        ],
+        "viz": ["ErsCountries"]
       }
     }
   }
