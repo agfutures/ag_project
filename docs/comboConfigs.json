@@ -215,7 +215,7 @@
           { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
           { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
           { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
-          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Corn" }
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Soybeans" }
         ],
         "viz": ["WasdeTable"]
       },
@@ -224,7 +224,7 @@
           { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
           { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
           { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
-          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Corn" }
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Soybeans" }
         ],
         "viz": ["WasdeChart"]
       }
@@ -507,12 +507,12 @@
         ],
         "viz": ["ErsCummulative"]
       },
-      "ErsCountries": {
+      "ErsYoYPattern": {
         "filters": [
           { "key": "Country",     "field": "Country",  "type": "multiselect",  "defaultAll": true  },
           { "key": "Year",     "field": "MarketYear",  "type": "multiselect",  "defaultCount": 5}
         ],
-        "viz": ["ErsCountries"]
+        "viz": ["ErsYoYPattern"]
       },
       "ErsData": {
         "filters": [
