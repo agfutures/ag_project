@@ -495,7 +495,7 @@
         "filters": [
           { "key": "Country",     "field": "Country",  "type": "multiselect",  "defaultAll": true  },
           { "key": "Year",     "field": "MarketYear",  "type": "multiselect",  "defaultCount": 5},
-          { "key": "Attributes", "type": "single", "options": ["Weekly_Exports","CMY_Net_Sales","CMY_Gross_Sales"],"default": "Weekly_Exports" }
+          { "key": "Attributes", "type": "single", "options": ["Weekly_Exports","CMY_Net_Sales","CMY_Gross_Sales","NMY_Net_Sales"],"default": "Weekly_Exports" }
         ],
         "viz": ["ErsWeekly"]
       },
@@ -503,7 +503,7 @@
         "filters": [
           { "key": "Country",     "field": "Country",  "type": "multiselect",  "defaultAll": true  },
           { "key": "Year",     "field": "MarketYear",  "type": "multiselect",  "defaultAll": true},
-          { "key": "Attributes", "type": "single", "options": ["Accum_Exports","CMY_Outstanding_Sales","CMY_Total_Commitments","NMY_Net_Sales", "NMY_Outstanding_Sales"],"default": "CMY_Total_Commitments" }
+          { "key": "Attributes", "type": "single", "options": ["Accum_Exports","CMY_Outstanding_Sales","CMY_Total_Commitments", "NMY_Outstanding_Sales"],"default": "CMY_Total_Commitments" }
         ],
         "viz": ["ErsCummulative"]
       }
