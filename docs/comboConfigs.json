@@ -253,10 +253,10 @@
       },
       "Data": {
         "filters": [
-          { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "ALL CLASSES" },
+          { "key": "week_ending", "field": "week_ending", "type": "single",      "defaultMostRecent": true },
           { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
           { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
-          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "defaultAll": true }
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US"  }
         ],
         "viz": ["Data"]
       }
