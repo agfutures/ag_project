@@ -258,7 +258,7 @@
           { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
           { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US"  }
         ],
-        "viz": ["Data"]
+        "viz": ["ProgressData"]
       }
     }
   },
