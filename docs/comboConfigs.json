@@ -710,6 +710,29 @@
       }
     }
   },
+  "Wheat_Crush": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/crush_WHEAT.json",
+    "visuals": {
+      "CrushMonthly": {
+        "filters": [
+          { "key": "Region",      "field": "region",        "type": "multiselect", "default": "US" },
+          { "key": "Class",      "field": "class_desc",     "type": "multiselect", "default": "ALL CLASSES" },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["CrushMonthly"]
+      },
+      "WheatCrushData": {
+        "filters": [
+          { "key": "Region",      "field": "region",        "type": "multiselect", "default": "US" },
+          { "key": "Class",      "field": "class_desc",     "type": "multiselect", "default": "ALL CLASSES" },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["WheatCrushData"]
+      }
+    }
+  },
   "CornCoProducts_Crush": {
     "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/crush_ALCOHOL_COPRODUCTS.json",
     "visuals": {
