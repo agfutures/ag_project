@@ -667,5 +667,37 @@
         "viz": ["ErsData"]
       }
     }
+  },
+  "Corn_Crush": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/crush_CORN.json",
+    "visuals": {
+      "MonthlyCrush": {
+        "filters": [
+          { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultMostRecent": true}
+
+        ],
+        "viz": ["MonthlyCrush"]
+      },
+      "CummulativeCrush": {
+        "filters": [
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
+          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
+        ],
+        "viz": ["CummulativeCrush"]
+      },
+      "CrushData": {
+        "filters": [
+          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
+          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
+          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
+        ],
+        "viz": ["CrushData"]
+      }
+    }
   }
 }
