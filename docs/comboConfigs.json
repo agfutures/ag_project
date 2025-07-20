@@ -699,6 +699,14 @@
           { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
         ],
         "viz": ["CrushMonthly"]
+      },
+      "SoybeansCrushData": {
+        "filters": [
+          { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Load date",  "field": "load_time",    "type": "multiselect", "defaultMostRecent": true }
+        ],
+        "viz": ["SoybeansCrushData"]
       }
     }
   },
