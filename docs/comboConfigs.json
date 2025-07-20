@@ -690,9 +690,7 @@
       },
       "CornCrushData": {
         "filters": [
-          { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
-          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
-          { "key": "Period",     "field": "reference_period_desc",   "type": "multiselect", "defaultAll": true }
+          { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true }
         ],
         "viz": ["CornCrushData"]
       }
