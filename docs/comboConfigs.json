@@ -688,14 +688,13 @@
         ],
         "viz": ["CummulativeCrush"]
       },
-      "CrushData": {
+      "CornCrushData": {
         "filters": [
-          { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US" },
-          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true },
-          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultMostRecent": true},
-          { "key": "Classes",    "field": "class_desc",   "type": "multiselect", "default": "ALL CLASSES" }
+          { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "Period",     "field": "reference_period_desc",   "type": "multiselect", "defaultAll": true }
         ],
-        "viz": ["CrushData"]
+        "viz": ["CornCrushData"]
       }
     }
   }
