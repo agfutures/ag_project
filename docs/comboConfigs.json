@@ -697,7 +697,7 @@
       }
     }
   },
-  "CornCoProduct_Production": {
+  "CornCoProduct_Crush": {
     "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/crush_ALCOHOL_COPRODUCTS.json",
     "visuals": {
       "CornCoProducts": {
