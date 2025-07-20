@@ -696,5 +696,18 @@
         "viz": ["CornCrushData"]
       }
     }
+  },
+  "CornCoProduct_Production": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/crush_ALCOHOL_COPRODUCTS.json",
+    "visuals": {
+      "CornCoProducts": {
+        "filters": [
+          { "key": "CoProducts", "field": "coproducts",   "type": "multiselect", "defaultAll": true },
+          { "key": "Categories", "field": "categories",   "type": "multiselect", "defaultAll": true },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["CornCoProducts"]
+      }
+    }
   }
 }
