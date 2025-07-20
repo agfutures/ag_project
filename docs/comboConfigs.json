@@ -308,7 +308,7 @@
       },
       "Choropleth": {
         "filters": [
-          { "key": "Attributes", "field": "unit_desc",    "type": "single",      "default": "PCT PLANTED" },
+          { "key": "Attributes", "field": "unit_desc",    "type": "single",      "defaultAll": true },
           { "key": "CropYear",   "field": "year",         "type": "single",      "defaultMostRecent": true },
           { "key": "Week",       "field": "week_ending",  "type": "single",      "defaultMostRecent": true },
           { "key": "Classes",    "field": "class_desc",   "type": "single",      "default": "WINTER" }
