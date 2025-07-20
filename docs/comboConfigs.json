@@ -702,9 +702,9 @@
       },
       "SoybeansCrushData": {
         "filters": [
-          { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "region",        "type": "multiselect", "default": "US" },
           { "key": "Year",       "field": "year",         "type": "multiselect", "defaultMostRecent": true },
-          { "key": "Load date",  "field": "load_time",    "type": "multiselect", "defaultMostRecent": true }
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
         ],
         "viz": ["SoybeansCrushData"]
       }
@@ -720,6 +720,14 @@
           { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true }
         ],
         "viz": ["CornCoProducts"]
+      },
+      "CornCoProductsData": {
+        "filters": [
+          { "key": "CoProducts", "field": "coproducts",   "type": "multiselect", "defaultAll": true },
+          { "key": "Categories", "field": "categories",   "type": "multiselect", "defaultAll": true },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["CornCoProductsData"]
       }
     }
   }
