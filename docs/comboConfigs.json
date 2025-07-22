@@ -260,7 +260,6 @@
         "filters": [
           { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
           { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
-          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
           { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "defaultAll": true  }
         ],
         "viz": ["WasdeTable"]
@@ -269,7 +268,6 @@
         "filters": [
           { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
           { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
-          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
           { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "defaultAll": true }
         ],
         "viz": ["WasdeChart"]
