@@ -230,6 +230,52 @@
       }
     }
   },
+  "Wheat_Wasde_US": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/wasde_Wheat_US.json",
+    "visuals": {
+      "Data_table": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Wheat" }
+        ],
+        "viz": ["WasdeTable"]
+      },
+      "Historical": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "default": "Wheat" }
+        ],
+        "viz": ["WasdeChart"]
+      }
+    }
+  },
+  "Meat_Wasde_US": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/wasde_Meat_US.json",
+    "visuals": {
+      "Data_table": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "select",      "defaultMostRecent": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "defaultAll": true  }
+        ],
+        "viz": ["WasdeTable"]
+      },
+      "Historical": {
+        "filters": [
+          { "key": "Attribute",  "field": "Attribute",  "type": "multiselect", "defaultAll": true },
+          { "key": "MarketYear",  "field": "MarketYear",  "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "Region",      "type": "multiselect", "default": "United States" },
+          { "key": "Commodity",   "field": "Commodity",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["WasdeChart"]
+      }
+    }
+  },
   "Corn_US_Progress": {
     "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/progress_CORN.json",
     "visuals": {
