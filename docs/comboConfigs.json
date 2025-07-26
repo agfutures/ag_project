@@ -723,6 +723,14 @@
         ],
         "viz": ["CrushMonthly"]
       },
+      "CrushYoY": {
+        "filters": [
+          { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["CrushYoY"]
+      },
       "CornCrushData": {
         "filters": [
           { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
