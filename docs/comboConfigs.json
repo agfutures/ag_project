@@ -729,7 +729,7 @@
           { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
           { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
         ],
-        "viz": ["CornSCrushYoY"]
+        "viz": ["CornCrushYoY"]
       },
       "CornCrushData": {
         "filters": [
