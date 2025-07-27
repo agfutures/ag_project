@@ -809,11 +809,21 @@
         ],
         "viz": ["CornCoProducts"]
       },
+      "CrushYoYCornCoProducts": {
+        "filters": [
+          { "key": "Type",       "field": "coproducts",   "type": "multiselect", "default":"CORN GLUTEN MEAL"},
+          { "key": "Categories", "field": "categories",   "type": "multiselect", "defaultAll": true },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["CrushYoYCornCoProducts"]
+      },
       "CornCoProductsData": {
         "filters": [
           { "key": "CoProducts", "field": "coproducts",   "type": "multiselect", "defaultAll": true },
           { "key": "Categories", "field": "categories",   "type": "multiselect", "defaultAll": true },
-          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true }
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Load date",  "field": "load_time",    "type": "multiselect", "defaultMostRecent": true }
         ],
         "viz": ["CornCoProductsData"]
       }
