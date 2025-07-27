@@ -754,7 +754,7 @@
       },
       "SoyCrushYoY": {
         "filters": [
-          { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
+          { "key": "Region",      "field": "region",        "type": "multiselect", "defaultExclude":"US"},
           { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
           { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
         ],
