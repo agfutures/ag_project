@@ -782,6 +782,15 @@
         ],
         "viz": ["CrushMonthly"]
       },
+      "CrushYoYWheat": {
+        "filters": [
+          { "key": "Region",      "field": "region",        "type": "multiselect", "defaultExclude":"US"},
+          { "key": "Class",      "field": "class_desc",     "type": "multiselect", "default":"ALL CLASSES"},
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["CrushYoYWheat"]
+      },
       "WheatCrushData": {
         "filters": [
           { "key": "Region",      "field": "region",        "type": "multiselect", "default": "US" },
