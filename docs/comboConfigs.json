@@ -723,13 +723,13 @@
         ],
         "viz": ["CrushMonthly"]
       },
-      "CrushYoY": {
+      "CornCrushYoY": {
         "filters": [
           { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
           { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
           { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
         ],
-        "viz": ["CrushYoY"]
+        "viz": ["CornSCrushYoY"]
       },
       "CornCrushData": {
         "filters": [
@@ -751,6 +751,14 @@
           { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
         ],
         "viz": ["CrushMonthly"]
+      },
+      "SoyCrushYoY": {
+        "filters": [
+          { "key": "Usage",      "field": "usage",        "type": "multiselect", "defaultAll": true },
+          { "key": "Year",       "field": "year",         "type": "multiselect", "defaultAll": true },
+          { "key": "Period",     "field": "begin_code",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["SoyCrushYoY"]
       },
       "SoybeansCrushData": {
         "filters": [
