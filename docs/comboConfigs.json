@@ -394,7 +394,6 @@
         "filters": [
           { "key": "week_ending", "field": "week_ending", "type": "multiselect",  "defaultMostRecent": true },
           { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
-          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
           { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US"  }
         ],
         "viz": ["ConditionData"]
@@ -425,7 +424,6 @@
         "filters": [
           { "key": "week_ending", "field": "week_ending", "type": "multiselect",  "defaultMostRecent": true },
           { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
-          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
           { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US"  }
         ],
         "viz": ["ConditionData"]
@@ -457,7 +455,6 @@
         "filters": [
           { "key": "week_ending", "field": "week_ending", "type": "multiselect",  "defaultMostRecent": true },
           { "key": "Attributes", "field": "unit_desc",    "type": "multiselect", "defaultAll": true },
-          { "key": "CropYear",   "field": "year",         "type": "multiselect", "defaultAll": true },
           { "key": "States",     "field": "state_alpha",  "type": "multiselect", "default": "US"  }
         ],
         "viz": ["ConditionData"]
