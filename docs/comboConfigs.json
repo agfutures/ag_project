@@ -828,5 +828,34 @@
         "viz": ["CornCoProductsData"]
       }
     }
+  },
+  "Corn_Comex": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_CORN.json",
+    "visuals": {
+      "ExportMonthly": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportMonthly"]
+      },
+      "ExportYoYCorn": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportYoYCorn"]
+      },
+      "ExportDataCorn": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportDataCorn"]
+      }
+    }
   }
 }
