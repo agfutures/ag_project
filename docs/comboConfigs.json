@@ -895,7 +895,7 @@
   },
   
   "Soybean_Meal_Comex": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_SOYBEAN_MEAL.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_SOYBEAN%20MEAL.json",
     "visuals": {
       "ExportMonthly": {
         "filters": [
