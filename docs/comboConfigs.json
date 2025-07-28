@@ -862,7 +862,7 @@
     }
   },
   "Soybeans_Comex": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_CORN.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_SOYBEANS.json",
     "visuals": {
       "ExportMonthly": {
         "filters": [
