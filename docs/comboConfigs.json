@@ -860,5 +860,37 @@
         "viz": ["ExportData"]
       }
     }
+  },
+  "Soybeans_Comex": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_CORN.json",
+    "visuals": {
+      "ExportMonthly": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportMonthly"]
+      },
+      "ExportYoYSoybeans": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportYoYSoybeans"]
+      },
+      "ExportData": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Date",     "field": "date",   "type": "multiselect", "defaultMostRecent": true }
+        ],
+        "viz": ["ExportData"]
+      }
+    }
   }
 }
