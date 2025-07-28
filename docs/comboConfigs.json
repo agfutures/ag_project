@@ -892,5 +892,38 @@
         "viz": ["ExportData"]
       }
     }
+  },
+  
+  "Soybean_Meal_Comex": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_SOYBEAN_MEAL.json",
+    "visuals": {
+      "ExportMonthly": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportMonthly"]
+      },
+      "ExportYoYSoybeanMeal": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportYoYSoybeanMeal"]
+      },
+      "ExportData": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Date",     "field": "date",   "type": "multiselect", "defaultMostRecent": true }
+        ],
+        "viz": ["ExportData"]
+      }
+    }
   }
 }
