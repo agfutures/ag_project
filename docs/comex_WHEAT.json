@@ -16,7 +16,8 @@
     "country":"Ecuador",
     "mts":20075.0,
     "year":"2010",
-    "month":"2"
+    "month":"2",
+    "date":"2010-02-01"
   },
   {
     "CO_ANO":2010,
@@ -35,7 +36,8 @@
     "country":"Kenya",
     "mts":36750.0,
     "year":"2010",
-    "month":"12"
+    "month":"12",
+    "date":"2010-12-01"
   },
   {
     "CO_ANO":2010,
@@ -54,7 +56,8 @@
     "country":"Suriname",
     "mts":0.23,
     "year":"2010",
-    "month":"11"
+    "month":"11",
+    "date":"2010-11-01"
   },
   {
     "CO_ANO":2010,
@@ -73,7 +76,8 @@
     "country":"Iran",
     "mts":4000.0,
     "year":"2010",
-    "month":"2"
+    "month":"2",
+    "date":"2010-02-01"
   },
   {
     "CO_ANO":2010,
@@ -92,7 +96,8 @@
     "country":"Portugal",
     "mts":1.2,
     "year":"2010",
-    "month":"9"
+    "month":"9",
+    "date":"2010-09-01"
   },
   {
     "CO_ANO":2010,
@@ -111,7 +116,8 @@
     "country":"Suriname",
     "mts":0.106,
     "year":"2010",
-    "month":"10"
+    "month":"10",
+    "date":"2010-10-01"
   },
   {
     "CO_ANO":2010,
@@ -130,7 +136,8 @@
     "country":"Paraguay",
     "mts":0.58,
     "year":"2010",
-    "month":"4"
+    "month":"4",
+    "date":"2010-04-01"
   },
   {
     "CO_ANO":2010,
@@ -149,7 +156,8 @@
     "country":"South Africa",
     "mts":32127.068,
     "year":"2010",
-    "month":"1"
+    "month":"1",
+    "date":"2010-01-01"
   },
   {
     "CO_ANO":2010,
@@ -168,7 +176,8 @@
     "country":"Paraguay",
     "mts":24.0,
     "year":"2010",
-    "month":"8"
+    "month":"8",
+    "date":"2010-08-01"
   },
   {
     "CO_ANO":2010,
@@ -187,7 +196,8 @@
     "country":"Paraguay",
     "mts":0.118,
     "year":"2010",
-    "month":"12"
+    "month":"12",
+    "date":"2010-12-01"
   },
   {
     "CO_ANO":2010,
@@ -206,7 +216,8 @@
     "country":"Vietnam",
     "mts":74861.615,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -225,7 +236,8 @@
     "country":"Paraguay",
     "mts":38.2,
     "year":"2010",
-    "month":"6"
+    "month":"6",
+    "date":"2010-06-01"
   },
   {
     "CO_ANO":2010,
@@ -244,7 +256,8 @@
     "country":"Paraguay",
     "mts":0.006,
     "year":"2010",
-    "month":"11"
+    "month":"11",
+    "date":"2010-11-01"
   },
   {
     "CO_ANO":2010,
@@ -263,7 +276,8 @@
     "country":"Portugal",
     "mts":1.2,
     "year":"2010",
-    "month":"5"
+    "month":"5",
+    "date":"2010-05-01"
   },
   {
     "CO_ANO":2010,
@@ -282,7 +296,8 @@
     "country":"Paraguay",
     "mts":175.96,
     "year":"2010",
-    "month":"10"
+    "month":"10",
+    "date":"2010-10-01"
   },
   {
     "CO_ANO":2010,
@@ -301,7 +316,8 @@
     "country":"Paraguay",
     "mts":0.1,
     "year":"2010",
-    "month":"10"
+    "month":"10",
+    "date":"2010-10-01"
   },
   {
     "CO_ANO":2010,
@@ -320,7 +336,8 @@
     "country":"Philippines",
     "mts":3321.616,
     "year":"2010",
-    "month":"4"
+    "month":"4",
+    "date":"2010-04-01"
   },
   {
     "CO_ANO":2010,
@@ -339,7 +356,8 @@
     "country":"Cape Verde",
     "mts":0.3,
     "year":"2010",
-    "month":"11"
+    "month":"11",
+    "date":"2010-11-01"
   },
   {
     "CO_ANO":2010,
@@ -358,7 +376,8 @@
     "country":"Vietnam",
     "mts":20508.83,
     "year":"2010",
-    "month":"2"
+    "month":"2",
+    "date":"2010-02-01"
   },
   {
     "CO_ANO":2010,
@@ -377,7 +396,8 @@
     "country":"United States",
     "mts":80778.384,
     "year":"2010",
-    "month":"4"
+    "month":"4",
+    "date":"2010-04-01"
   },
   {
     "CO_ANO":2010,
@@ -396,7 +416,8 @@
     "country":"Tunisia",
     "mts":27251.0,
     "year":"2010",
-    "month":"12"
+    "month":"12",
+    "date":"2010-12-01"
   },
   {
     "CO_ANO":2010,
@@ -415,7 +436,8 @@
     "country":"Bahamas",
     "mts":3000.0,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -434,7 +456,8 @@
     "country":"Philippines",
     "mts":103213.875,
     "year":"2010",
-    "month":"4"
+    "month":"4",
+    "date":"2010-04-01"
   },
   {
     "CO_ANO":2010,
@@ -453,7 +476,8 @@
     "country":"Paraguay",
     "mts":0.15,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -472,7 +496,8 @@
     "country":"Paraguay",
     "mts":0.445,
     "year":"2010",
-    "month":"9"
+    "month":"9",
+    "date":"2010-09-01"
   },
   {
     "CO_ANO":2010,
@@ -491,7 +516,8 @@
     "country":"Suriname",
     "mts":0.941,
     "year":"2010",
-    "month":"12"
+    "month":"12",
+    "date":"2010-12-01"
   },
   {
     "CO_ANO":2010,
@@ -510,7 +536,8 @@
     "country":"United States",
     "mts":33670.0,
     "year":"2010",
-    "month":"1"
+    "month":"1",
+    "date":"2010-01-01"
   },
   {
     "CO_ANO":2010,
@@ -529,7 +556,8 @@
     "country":"Vietnam",
     "mts":17916.95,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -548,7 +576,8 @@
     "country":"Paraguay",
     "mts":55.0,
     "year":"2010",
-    "month":"4"
+    "month":"4",
+    "date":"2010-04-01"
   },
   {
     "CO_ANO":2010,
@@ -567,7 +596,8 @@
     "country":"Iran",
     "mts":5500.0,
     "year":"2010",
-    "month":"2"
+    "month":"2",
+    "date":"2010-02-01"
   },
   {
     "CO_ANO":2010,
@@ -586,7 +616,8 @@
     "country":"South Africa",
     "mts":80500.0,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -605,7 +636,8 @@
     "country":"Libya",
     "mts":48639.855,
     "year":"2010",
-    "month":"12"
+    "month":"12",
+    "date":"2010-12-01"
   },
   {
     "CO_ANO":2010,
@@ -624,7 +656,8 @@
     "country":"Thailand",
     "mts":40782.695,
     "year":"2010",
-    "month":"2"
+    "month":"2",
+    "date":"2010-02-01"
   },
   {
     "CO_ANO":2010,
@@ -643,7 +676,8 @@
     "country":"South Korea",
     "mts":43266.948,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -662,7 +696,8 @@
     "country":"Vietnam",
     "mts":45219.458,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -681,7 +716,8 @@
     "country":"Paraguay",
     "mts":0.23,
     "year":"2010",
-    "month":"7"
+    "month":"7",
+    "date":"2010-07-01"
   },
   {
     "CO_ANO":2010,
@@ -700,7 +736,8 @@
     "country":"United States",
     "mts":48300.0,
     "year":"2010",
-    "month":"2"
+    "month":"2",
+    "date":"2010-02-01"
   },
   {
     "CO_ANO":2010,
@@ -719,7 +756,8 @@
     "country":"Vietnam",
     "mts":48222.791,
     "year":"2010",
-    "month":"4"
+    "month":"4",
+    "date":"2010-04-01"
   },
   {
     "CO_ANO":2010,
@@ -738,7 +776,8 @@
     "country":"Thailand",
     "mts":9491.17,
     "year":"2010",
-    "month":"2"
+    "month":"2",
+    "date":"2010-02-01"
   },
   {
     "CO_ANO":2010,
@@ -757,7 +796,8 @@
     "country":"Colombia",
     "mts":11483.595,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -776,7 +816,8 @@
     "country":"United States",
     "mts":1977.3,
     "year":"2010",
-    "month":"8"
+    "month":"8",
+    "date":"2010-08-01"
   },
   {
     "CO_ANO":2010,
@@ -795,7 +836,8 @@
     "country":"United States",
     "mts":43694.736,
     "year":"2010",
-    "month":"5"
+    "month":"5",
+    "date":"2010-05-01"
   },
   {
     "CO_ANO":2010,
@@ -814,7 +856,8 @@
     "country":"Philippines",
     "mts":23000.0,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -833,7 +876,8 @@
     "country":"South Korea",
     "mts":50000.0,
     "year":"2010",
-    "month":"4"
+    "month":"4",
+    "date":"2010-04-01"
   },
   {
     "CO_ANO":2010,
@@ -852,7 +896,8 @@
     "country":"Vietnam",
     "mts":4000.0,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -871,7 +916,8 @@
     "country":"Paraguay",
     "mts":0.025,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -890,7 +936,8 @@
     "country":"Philippines",
     "mts":3100.0,
     "year":"2010",
-    "month":"1"
+    "month":"1",
+    "date":"2010-01-01"
   },
   {
     "CO_ANO":2010,
@@ -909,7 +956,8 @@
     "country":"Mozambique",
     "mts":14000.0,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -928,7 +976,8 @@
     "country":"Philippines",
     "mts":11266.55,
     "year":"2010",
-    "month":"4"
+    "month":"4",
+    "date":"2010-04-01"
   },
   {
     "CO_ANO":2010,
@@ -947,7 +996,8 @@
     "country":"Colombia",
     "mts":27300.0,
     "year":"2010",
-    "month":"5"
+    "month":"5",
+    "date":"2010-05-01"
   },
   {
     "CO_ANO":2010,
@@ -966,7 +1016,8 @@
     "country":"Paraguay",
     "mts":0.09,
     "year":"2010",
-    "month":"11"
+    "month":"11",
+    "date":"2010-11-01"
   },
   {
     "CO_ANO":2010,
@@ -985,7 +1036,8 @@
     "country":"Ecuador",
     "mts":300.0,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2010,
@@ -1004,7 +1056,8 @@
     "country":"Bolivia",
     "mts":2.0,
     "year":"2010",
-    "month":"5"
+    "month":"5",
+    "date":"2010-05-01"
   },
   {
     "CO_ANO":2010,
@@ -1023,7 +1076,8 @@
     "country":"United States",
     "mts":2555.754,
     "year":"2010",
-    "month":"5"
+    "month":"5",
+    "date":"2010-05-01"
   },
   {
     "CO_ANO":2010,
@@ -1042,7 +1096,8 @@
     "country":"Vietnam",
     "mts":30000.0,
     "year":"2010",
-    "month":"2"
+    "month":"2",
+    "date":"2010-02-01"
   },
   {
     "CO_ANO":2010,
@@ -1061,7 +1116,8 @@
     "country":"South Africa",
     "mts":22500.0,
     "year":"2010",
-    "month":"4"
+    "month":"4",
+    "date":"2010-04-01"
   },
   {
     "CO_ANO":2010,
@@ -1080,7 +1136,8 @@
     "country":"India",
     "mts":3500.0,
     "year":"2010",
-    "month":"11"
+    "month":"11",
+    "date":"2010-11-01"
   },
   {
     "CO_ANO":2010,
@@ -1099,7 +1156,8 @@
     "country":"Philippines",
     "mts":85475.162,
     "year":"2010",
-    "month":"1"
+    "month":"1",
+    "date":"2010-01-01"
   },
   {
     "CO_ANO":2010,
@@ -1118,7 +1176,8 @@
     "country":"Iran",
     "mts":47185.85,
     "year":"2010",
-    "month":"1"
+    "month":"1",
+    "date":"2010-01-01"
   },
   {
     "CO_ANO":2010,
@@ -1137,7 +1196,8 @@
     "country":"Paraguay",
     "mts":29.88,
     "year":"2010",
-    "month":"11"
+    "month":"11",
+    "date":"2010-11-01"
   },
   {
     "CO_ANO":2010,
@@ -1156,7 +1216,8 @@
     "country":"Paraguay",
     "mts":0.09,
     "year":"2010",
-    "month":"8"
+    "month":"8",
+    "date":"2010-08-01"
   },
   {
     "CO_ANO":2010,
@@ -1175,7 +1236,8 @@
     "country":"Egypt",
     "mts":57300.0,
     "year":"2010",
-    "month":"11"
+    "month":"11",
+    "date":"2010-11-01"
   },
   {
     "CO_ANO":2010,
@@ -1194,7 +1256,8 @@
     "country":"Paraguay",
     "mts":38.24,
     "year":"2010",
-    "month":"12"
+    "month":"12",
+    "date":"2010-12-01"
   },
   {
     "CO_ANO":2010,
@@ -1213,7 +1276,8 @@
     "country":"United States",
     "mts":57684.926,
     "year":"2010",
-    "month":"3"
+    "month":"3",
+    "date":"2010-03-01"
   },
   {
     "CO_ANO":2011,
@@ -1232,7 +1296,8 @@
     "country":"Morocco",
     "mts":9502.704,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -1251,7 +1316,8 @@
     "country":"Bolivia",
     "mts":0.023,
     "year":"2011",
-    "month":"11"
+    "month":"11",
+    "date":"2011-11-01"
   },
   {
     "CO_ANO":2011,
@@ -1270,7 +1336,8 @@
     "country":"Libya",
     "mts":20700.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1289,7 +1356,8 @@
     "country":"Cape Verde",
     "mts":0.24,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -1308,7 +1376,8 @@
     "country":"Kenya",
     "mts":24695.0,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -1327,7 +1396,8 @@
     "country":"Mozambique",
     "mts":38504.93,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1346,7 +1416,8 @@
     "country":"Uruguay",
     "mts":28.0,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -1365,7 +1436,8 @@
     "country":"Ethiopia",
     "mts":16005.0,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -1384,7 +1456,8 @@
     "country":"Algeria",
     "mts":350.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -1403,7 +1476,8 @@
     "country":"Yemen",
     "mts":4500.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -1422,7 +1496,8 @@
     "country":"South Africa",
     "mts":32951.13,
     "year":"2011",
-    "month":"6"
+    "month":"6",
+    "date":"2011-06-01"
   },
   {
     "CO_ANO":2011,
@@ -1441,7 +1516,8 @@
     "country":"Tunisia",
     "mts":24749.355,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1460,7 +1536,8 @@
     "country":"Saudi Arabia",
     "mts":4500.0,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -1479,7 +1556,8 @@
     "country":"Morocco",
     "mts":11804.427,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -1498,7 +1576,8 @@
     "country":"Mali",
     "mts":8800.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -1517,7 +1596,8 @@
     "country":"Bangladesh",
     "mts":41500.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1536,7 +1616,8 @@
     "country":"Bangladesh",
     "mts":7000.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1555,7 +1636,8 @@
     "country":"Portugal",
     "mts":0.9,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1574,7 +1656,8 @@
     "country":"Paraguay",
     "mts":20.01,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -1593,7 +1676,8 @@
     "country":"Angola",
     "mts":2.4,
     "year":"2011",
-    "month":"12"
+    "month":"12",
+    "date":"2011-12-01"
   },
   {
     "CO_ANO":2011,
@@ -1612,7 +1696,8 @@
     "country":"Turkey",
     "mts":31671.483,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -1631,7 +1716,8 @@
     "country":"Paraguay",
     "mts":73.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -1650,7 +1736,8 @@
     "country":"Libya",
     "mts":5300.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1669,7 +1756,8 @@
     "country":"Tanzania",
     "mts":2000.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -1688,7 +1776,8 @@
     "country":"Libya",
     "mts":25850.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1707,7 +1796,8 @@
     "country":"South Africa",
     "mts":241.487,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -1726,7 +1816,8 @@
     "country":"Turkey",
     "mts":6000.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -1745,7 +1836,8 @@
     "country":"Kenya",
     "mts":3000.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -1764,7 +1856,8 @@
     "country":"Algeria",
     "mts":58890.15,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1783,7 +1876,8 @@
     "country":"Cape Verde",
     "mts":0.12,
     "year":"2011",
-    "month":"10"
+    "month":"10",
+    "date":"2011-10-01"
   },
   {
     "CO_ANO":2011,
@@ -1802,7 +1896,8 @@
     "country":"Kenya",
     "mts":35000.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1821,7 +1916,8 @@
     "country":"Oman",
     "mts":19350.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -1840,7 +1936,8 @@
     "country":"Algeria",
     "mts":3486.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -1859,7 +1956,8 @@
     "country":"Algeria",
     "mts":3000.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -1878,7 +1976,8 @@
     "country":"Sudan",
     "mts":33334.72,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -1897,7 +1996,8 @@
     "country":"Egypt",
     "mts":21250.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -1916,7 +2016,8 @@
     "country":"Morocco",
     "mts":7350.932,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1935,7 +2036,8 @@
     "country":"China",
     "mts":6000.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -1954,7 +2056,8 @@
     "country":"Bangladesh",
     "mts":50653.32,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -1973,7 +2076,8 @@
     "country":"Algeria",
     "mts":1296.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -1992,7 +2096,8 @@
     "country":"United Arab Emirates",
     "mts":40922.5,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -2011,7 +2116,8 @@
     "country":"South Africa",
     "mts":34650.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -2030,7 +2136,8 @@
     "country":"Libya",
     "mts":3077.5,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -2049,7 +2156,8 @@
     "country":"South Africa",
     "mts":23008.513,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -2068,7 +2176,8 @@
     "country":"Bolivia",
     "mts":0.011,
     "year":"2011",
-    "month":"12"
+    "month":"12",
+    "date":"2011-12-01"
   },
   {
     "CO_ANO":2011,
@@ -2087,7 +2196,8 @@
     "country":"Algeria",
     "mts":11401.723,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2106,7 +2216,8 @@
     "country":"Libya",
     "mts":25000.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -2125,7 +2236,8 @@
     "country":"Angola",
     "mts":0.72,
     "year":"2011",
-    "month":"7"
+    "month":"7",
+    "date":"2011-07-01"
   },
   {
     "CO_ANO":2011,
@@ -2144,7 +2256,8 @@
     "country":"Algeria",
     "mts":838.577,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -2163,7 +2276,8 @@
     "country":"Indonesia",
     "mts":22500.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2182,7 +2296,8 @@
     "country":"Tunisia",
     "mts":27500.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -2201,7 +2316,8 @@
     "country":"Yemen",
     "mts":25100.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -2220,7 +2336,8 @@
     "country":"Yemen",
     "mts":15875.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -2239,7 +2356,8 @@
     "country":"Kenya",
     "mts":18946.475,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -2258,7 +2376,8 @@
     "country":"Algeria",
     "mts":63707.621,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2277,7 +2396,8 @@
     "country":"China",
     "mts":12000.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -2296,7 +2416,8 @@
     "country":"South Korea",
     "mts":300.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2315,7 +2436,8 @@
     "country":"Nigeria",
     "mts":18000.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2334,7 +2456,8 @@
     "country":"Paraguay",
     "mts":0.04,
     "year":"2011",
-    "month":"11"
+    "month":"11",
+    "date":"2011-11-01"
   },
   {
     "CO_ANO":2011,
@@ -2353,7 +2476,8 @@
     "country":"Morocco",
     "mts":17239.433,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -2372,7 +2496,8 @@
     "country":"Paraguay",
     "mts":0.1,
     "year":"2011",
-    "month":"8"
+    "month":"8",
+    "date":"2011-08-01"
   },
   {
     "CO_ANO":2011,
@@ -2391,7 +2516,8 @@
     "country":"Portugal",
     "mts":0.9,
     "year":"2011",
-    "month":"8"
+    "month":"8",
+    "date":"2011-08-01"
   },
   {
     "CO_ANO":2011,
@@ -2410,7 +2536,8 @@
     "country":"Morocco",
     "mts":117.22,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2429,7 +2556,8 @@
     "country":"Bolivia",
     "mts":0.025,
     "year":"2011",
-    "month":"9"
+    "month":"9",
+    "date":"2011-09-01"
   },
   {
     "CO_ANO":2011,
@@ -2448,7 +2576,8 @@
     "country":"Saudi Arabia",
     "mts":31500.0,
     "year":"2011",
-    "month":"6"
+    "month":"6",
+    "date":"2011-06-01"
   },
   {
     "CO_ANO":2011,
@@ -2467,7 +2596,8 @@
     "country":"Nigeria",
     "mts":6867.786,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -2486,7 +2616,8 @@
     "country":"Morocco",
     "mts":2245.573,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -2505,7 +2636,8 @@
     "country":"Sudan",
     "mts":656.48,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -2524,7 +2656,8 @@
     "country":"United Kingdom",
     "mts":0.2,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -2543,7 +2676,8 @@
     "country":"Algeria",
     "mts":7000.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -2562,7 +2696,8 @@
     "country":"Saudi Arabia",
     "mts":36969.73,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -2581,7 +2716,8 @@
     "country":"Tunisia",
     "mts":27500.0,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -2600,7 +2736,8 @@
     "country":"Portugal",
     "mts":1.5,
     "year":"2011",
-    "month":"12"
+    "month":"12",
+    "date":"2011-12-01"
   },
   {
     "CO_ANO":2011,
@@ -2619,7 +2756,8 @@
     "country":"Yemen",
     "mts":4000.0,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -2638,7 +2776,8 @@
     "country":"Mozambique",
     "mts":1375.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -2657,7 +2796,8 @@
     "country":"Algeria",
     "mts":160557.905,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -2676,7 +2816,8 @@
     "country":"Kenya",
     "mts":15761.694,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -2695,7 +2836,8 @@
     "country":"Algeria",
     "mts":62941.782,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -2714,7 +2856,8 @@
     "country":"Paraguay",
     "mts":0.475,
     "year":"2011",
-    "month":"6"
+    "month":"6",
+    "date":"2011-06-01"
   },
   {
     "CO_ANO":2011,
@@ -2733,7 +2876,8 @@
     "country":"Egypt",
     "mts":50448.672,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2752,7 +2896,8 @@
     "country":"Algeria",
     "mts":25807.986,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2771,7 +2916,8 @@
     "country":"United Arab Emirates",
     "mts":20567.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -2790,7 +2936,8 @@
     "country":"Paraguay",
     "mts":0.03,
     "year":"2011",
-    "month":"7"
+    "month":"7",
+    "date":"2011-07-01"
   },
   {
     "CO_ANO":2011,
@@ -2809,7 +2956,8 @@
     "country":"Morocco",
     "mts":592.989,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2828,7 +2976,8 @@
     "country":"Yemen",
     "mts":61445.31,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -2847,7 +2996,8 @@
     "country":"Bolivia",
     "mts":2.0,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -2866,7 +3016,8 @@
     "country":"Algeria",
     "mts":194628.38,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2885,7 +3036,8 @@
     "country":"Angola",
     "mts":14.4,
     "year":"2011",
-    "month":"11"
+    "month":"11",
+    "date":"2011-11-01"
   },
   {
     "CO_ANO":2011,
@@ -2904,7 +3056,8 @@
     "country":"Tunisia",
     "mts":26250.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -2923,7 +3076,8 @@
     "country":"Libya",
     "mts":2500.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -2942,7 +3096,8 @@
     "country":"Mozambique",
     "mts":1900.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -2961,7 +3116,8 @@
     "country":"Israel",
     "mts":27500.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2980,7 +3136,8 @@
     "country":"Kenya",
     "mts":35995.07,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -2999,7 +3156,8 @@
     "country":"Egypt",
     "mts":62700.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -3018,7 +3176,8 @@
     "country":"Algeria",
     "mts":21650.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -3037,7 +3196,8 @@
     "country":"Kenya",
     "mts":6000.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -3056,7 +3216,8 @@
     "country":"Libya",
     "mts":30000.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -3075,7 +3236,8 @@
     "country":"Paraguay",
     "mts":0.04,
     "year":"2011",
-    "month":"12"
+    "month":"12",
+    "date":"2011-12-01"
   },
   {
     "CO_ANO":2011,
@@ -3094,7 +3256,8 @@
     "country":"Tunisia",
     "mts":23450.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -3113,7 +3276,8 @@
     "country":"Egypt",
     "mts":51552.983,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -3132,7 +3296,8 @@
     "country":"Algeria",
     "mts":27080.0,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -3151,7 +3316,8 @@
     "country":"Paraguay",
     "mts":0.106,
     "year":"2011",
-    "month":"11"
+    "month":"11",
+    "date":"2011-11-01"
   },
   {
     "CO_ANO":2011,
@@ -3170,7 +3336,8 @@
     "country":"Morocco",
     "mts":17997.296,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -3189,7 +3356,8 @@
     "country":"Bolivia",
     "mts":0.022,
     "year":"2011",
-    "month":"10"
+    "month":"10",
+    "date":"2011-10-01"
   },
   {
     "CO_ANO":2011,
@@ -3208,7 +3376,8 @@
     "country":"Turkey",
     "mts":54758.571,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -3227,7 +3396,8 @@
     "country":"Bangladesh",
     "mts":36178.88,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -3246,7 +3416,8 @@
     "country":"Congo",
     "mts":8064.374,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -3265,7 +3436,8 @@
     "country":"Saudi Arabia",
     "mts":16190.33,
     "year":"2011",
-    "month":"6"
+    "month":"6",
+    "date":"2011-06-01"
   },
   {
     "CO_ANO":2011,
@@ -3284,7 +3456,8 @@
     "country":"Algeria",
     "mts":10000.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -3303,7 +3476,8 @@
     "country":"Syria",
     "mts":26500.0,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -3322,7 +3496,8 @@
     "country":"Portugal",
     "mts":3.0,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -3341,7 +3516,8 @@
     "country":"Turkey",
     "mts":5585.629,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -3360,7 +3536,8 @@
     "country":"Tunisia",
     "mts":49250.0,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -3379,7 +3556,8 @@
     "country":"Turkey",
     "mts":56030.794,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -3398,7 +3576,8 @@
     "country":"Argentina",
     "mts":0.44,
     "year":"2011",
-    "month":"6"
+    "month":"6",
+    "date":"2011-06-01"
   },
   {
     "CO_ANO":2011,
@@ -3417,7 +3596,8 @@
     "country":"Congo",
     "mts":34.039,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -3436,7 +3616,8 @@
     "country":"Kenya",
     "mts":8053.525,
     "year":"2011",
-    "month":"5"
+    "month":"5",
+    "date":"2011-05-01"
   },
   {
     "CO_ANO":2011,
@@ -3455,7 +3636,8 @@
     "country":"Paraguay",
     "mts":0.66,
     "year":"2011",
-    "month":"12"
+    "month":"12",
+    "date":"2011-12-01"
   },
   {
     "CO_ANO":2011,
@@ -3474,7 +3656,8 @@
     "country":"Kenya",
     "mts":10000.0,
     "year":"2011",
-    "month":"6"
+    "month":"6",
+    "date":"2011-06-01"
   },
   {
     "CO_ANO":2011,
@@ -3493,7 +3676,8 @@
     "country":"Algeria",
     "mts":27500.0,
     "year":"2011",
-    "month":"6"
+    "month":"6",
+    "date":"2011-06-01"
   },
   {
     "CO_ANO":2011,
@@ -3512,7 +3696,8 @@
     "country":"Congo",
     "mts":1.587,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -3531,7 +3716,8 @@
     "country":"Sri Lanka",
     "mts":21300.0,
     "year":"2011",
-    "month":"1"
+    "month":"1",
+    "date":"2011-01-01"
   },
   {
     "CO_ANO":2011,
@@ -3550,7 +3736,8 @@
     "country":"Nigeria",
     "mts":9151.73,
     "year":"2011",
-    "month":"3"
+    "month":"3",
+    "date":"2011-03-01"
   },
   {
     "CO_ANO":2011,
@@ -3569,7 +3756,8 @@
     "country":"Morocco",
     "mts":18950.0,
     "year":"2011",
-    "month":"4"
+    "month":"4",
+    "date":"2011-04-01"
   },
   {
     "CO_ANO":2011,
@@ -3588,7 +3776,8 @@
     "country":"Algeria",
     "mts":25411.423,
     "year":"2011",
-    "month":"2"
+    "month":"2",
+    "date":"2011-02-01"
   },
   {
     "CO_ANO":2011,
@@ -3607,7 +3796,8 @@
     "country":"Nigeria",
     "mts":1000.0,
     "year":"2011",
-    "month":"12"
+    "month":"12",
+    "date":"2011-12-01"
   },
   {
     "CO_ANO":2012,
@@ -3626,7 +3816,8 @@
     "country":"Italy",
     "mts":1038.955,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -3645,7 +3836,8 @@
     "country":"Mozambique",
     "mts":23714.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -3664,7 +3856,8 @@
     "country":"Libya",
     "mts":6.33,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -3683,7 +3876,8 @@
     "country":"United Arab Emirates",
     "mts":1000.0,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -3702,7 +3896,8 @@
     "country":"United Arab Emirates",
     "mts":163322.943,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -3721,7 +3916,8 @@
     "country":"Sudan",
     "mts":10441.762,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -3740,7 +3936,8 @@
     "country":"Paraguay",
     "mts":0.22,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -3759,7 +3956,8 @@
     "country":"South Africa",
     "mts":13604.425,
     "year":"2012",
-    "month":"7"
+    "month":"7",
+    "date":"2012-07-01"
   },
   {
     "CO_ANO":2012,
@@ -3778,7 +3976,8 @@
     "country":"Nigeria",
     "mts":26750.0,
     "year":"2012",
-    "month":"9"
+    "month":"9",
+    "date":"2012-09-01"
   },
   {
     "CO_ANO":2012,
@@ -3797,7 +3996,8 @@
     "country":"Egypt",
     "mts":18036.0,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -3816,7 +4016,8 @@
     "country":"Nigeria",
     "mts":21500.0,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -3835,7 +4036,8 @@
     "country":"Tunisia",
     "mts":27500.0,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -3854,7 +4056,8 @@
     "country":"Iran",
     "mts":5000.0,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -3873,7 +4076,8 @@
     "country":"Djibouti",
     "mts":10568.54,
     "year":"2012",
-    "month":"9"
+    "month":"9",
+    "date":"2012-09-01"
   },
   {
     "CO_ANO":2012,
@@ -3892,7 +4096,8 @@
     "country":"Paraguay",
     "mts":0.038,
     "year":"2012",
-    "month":"10"
+    "month":"10",
+    "date":"2012-10-01"
   },
   {
     "CO_ANO":2012,
@@ -3911,7 +4116,8 @@
     "country":"Libya",
     "mts":25421.15,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -3930,7 +4136,8 @@
     "country":"Spain",
     "mts":56112.452,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -3949,7 +4156,8 @@
     "country":"Mozambique",
     "mts":0.006,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -3968,7 +4176,8 @@
     "country":"Spain",
     "mts":31300.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -3987,7 +4196,8 @@
     "country":"Paraguay",
     "mts":0.7,
     "year":"2012",
-    "month":"8"
+    "month":"8",
+    "date":"2012-08-01"
   },
   {
     "CO_ANO":2012,
@@ -4006,7 +4216,8 @@
     "country":"Kenya",
     "mts":8752.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -4025,7 +4236,8 @@
     "country":"Mozambique",
     "mts":7700.0,
     "year":"2012",
-    "month":"12"
+    "month":"12",
+    "date":"2012-12-01"
   },
   {
     "CO_ANO":2012,
@@ -4044,7 +4256,8 @@
     "country":"Paraguay",
     "mts":1.71,
     "year":"2012",
-    "month":"10"
+    "month":"10",
+    "date":"2012-10-01"
   },
   {
     "CO_ANO":2012,
@@ -4063,7 +4276,8 @@
     "country":"Libya",
     "mts":1998.85,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -4082,7 +4296,8 @@
     "country":"Mauritania",
     "mts":23100.0,
     "year":"2012",
-    "month":"10"
+    "month":"10",
+    "date":"2012-10-01"
   },
   {
     "CO_ANO":2012,
@@ -4101,7 +4316,8 @@
     "country":"Paraguay",
     "mts":0.09,
     "year":"2012",
-    "month":"11"
+    "month":"11",
+    "date":"2012-11-01"
   },
   {
     "CO_ANO":2012,
@@ -4120,7 +4336,8 @@
     "country":"Algeria",
     "mts":31895.0,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -4139,7 +4356,8 @@
     "country":"Colombia",
     "mts":26238.735,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -4158,7 +4376,8 @@
     "country":"Libya",
     "mts":34352.314,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -4177,7 +4396,8 @@
     "country":"United Arab Emirates",
     "mts":185500.0,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -4196,7 +4416,8 @@
     "country":"Mauritania",
     "mts":1500.0,
     "year":"2012",
-    "month":"7"
+    "month":"7",
+    "date":"2012-07-01"
   },
   {
     "CO_ANO":2012,
@@ -4215,7 +4436,8 @@
     "country":"South Africa",
     "mts":30066.49,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -4234,7 +4456,8 @@
     "country":"Paraguay",
     "mts":0.4,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -4253,7 +4476,8 @@
     "country":"Mozambique",
     "mts":15000.0,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -4272,7 +4496,8 @@
     "country":"Bolivia",
     "mts":0.028,
     "year":"2012",
-    "month":"6"
+    "month":"6",
+    "date":"2012-06-01"
   },
   {
     "CO_ANO":2012,
@@ -4291,7 +4516,8 @@
     "country":"Portugal",
     "mts":6750.0,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -4310,7 +4536,8 @@
     "country":"Libya",
     "mts":29836.932,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -4329,7 +4556,8 @@
     "country":"Mauritania",
     "mts":4000.0,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -4348,7 +4576,8 @@
     "country":"Libya",
     "mts":24977.686,
     "year":"2012",
-    "month":"6"
+    "month":"6",
+    "date":"2012-06-01"
   },
   {
     "CO_ANO":2012,
@@ -4367,7 +4596,8 @@
     "country":"Mauritania",
     "mts":18030.0,
     "year":"2012",
-    "month":"7"
+    "month":"7",
+    "date":"2012-07-01"
   },
   {
     "CO_ANO":2012,
@@ -4386,7 +4616,8 @@
     "country":"Portugal",
     "mts":3.0,
     "year":"2012",
-    "month":"12"
+    "month":"12",
+    "date":"2012-12-01"
   },
   {
     "CO_ANO":2012,
@@ -4405,7 +4636,8 @@
     "country":"Mauritania",
     "mts":12634.445,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -4424,7 +4656,8 @@
     "country":"Paraguay",
     "mts":0.35,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -4443,7 +4676,8 @@
     "country":"Angola",
     "mts":0.24,
     "year":"2012",
-    "month":"11"
+    "month":"11",
+    "date":"2012-11-01"
   },
   {
     "CO_ANO":2012,
@@ -4462,7 +4696,8 @@
     "country":"United Kingdom",
     "mts":0.028,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -4481,7 +4716,8 @@
     "country":"Iran",
     "mts":3000.0,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -4500,7 +4736,8 @@
     "country":"South Africa",
     "mts":3393.955,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -4519,7 +4756,8 @@
     "country":"Nigeria",
     "mts":1326.6,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -4538,7 +4776,8 @@
     "country":"Algeria",
     "mts":78900.0,
     "year":"2012",
-    "month":"6"
+    "month":"6",
+    "date":"2012-06-01"
   },
   {
     "CO_ANO":2012,
@@ -4557,7 +4796,8 @@
     "country":"South Africa",
     "mts":25673.196,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -4576,7 +4816,8 @@
     "country":"Tanzania",
     "mts":41800.0,
     "year":"2012",
-    "month":"12"
+    "month":"12",
+    "date":"2012-12-01"
   },
   {
     "CO_ANO":2012,
@@ -4595,7 +4836,8 @@
     "country":"Iran",
     "mts":67241.584,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -4614,7 +4856,8 @@
     "country":"Morocco",
     "mts":41364.0,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -4633,7 +4876,8 @@
     "country":"Spain",
     "mts":39934.445,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -4652,7 +4896,8 @@
     "country":"Saudi Arabia",
     "mts":18413.0,
     "year":"2012",
-    "month":"12"
+    "month":"12",
+    "date":"2012-12-01"
   },
   {
     "CO_ANO":2012,
@@ -4671,7 +4916,8 @@
     "country":"South Africa",
     "mts":480.0,
     "year":"2012",
-    "month":"9"
+    "month":"9",
+    "date":"2012-09-01"
   },
   {
     "CO_ANO":2012,
@@ -4690,7 +4936,8 @@
     "country":"Saudi Arabia",
     "mts":57750.0,
     "year":"2012",
-    "month":"12"
+    "month":"12",
+    "date":"2012-12-01"
   },
   {
     "CO_ANO":2012,
@@ -4709,7 +4956,8 @@
     "country":"Libya",
     "mts":47.07,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -4728,7 +4976,8 @@
     "country":"Saudi Arabia",
     "mts":44587.0,
     "year":"2012",
-    "month":"12"
+    "month":"12",
+    "date":"2012-12-01"
   },
   {
     "CO_ANO":2012,
@@ -4747,7 +4996,8 @@
     "country":"Paraguay",
     "mts":0.4,
     "year":"2012",
-    "month":"9"
+    "month":"9",
+    "date":"2012-09-01"
   },
   {
     "CO_ANO":2012,
@@ -4766,7 +5016,8 @@
     "country":"Ecuador",
     "mts":7817.73,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -4785,7 +5036,8 @@
     "country":"Mozambique",
     "mts":0.006,
     "year":"2012",
-    "month":"11"
+    "month":"11",
+    "date":"2012-11-01"
   },
   {
     "CO_ANO":2012,
@@ -4804,7 +5056,8 @@
     "country":"Djibouti",
     "mts":43100.0,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -4823,7 +5076,8 @@
     "country":"Sudan",
     "mts":19625.462,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -4842,7 +5096,8 @@
     "country":"To define",
     "mts":10000.0,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -4861,7 +5116,8 @@
     "country":"South Africa",
     "mts":43112.743,
     "year":"2012",
-    "month":"9"
+    "month":"9",
+    "date":"2012-09-01"
   },
   {
     "CO_ANO":2012,
@@ -4880,7 +5136,8 @@
     "country":"Tunisia",
     "mts":9000.0,
     "year":"2012",
-    "month":"12"
+    "month":"12",
+    "date":"2012-12-01"
   },
   {
     "CO_ANO":2012,
@@ -4899,7 +5156,8 @@
     "country":"Spain",
     "mts":51000.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -4918,7 +5176,8 @@
     "country":"Djibouti",
     "mts":44000.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -4937,7 +5196,8 @@
     "country":"Paraguay",
     "mts":0.14,
     "year":"2012",
-    "month":"9"
+    "month":"9",
+    "date":"2012-09-01"
   },
   {
     "CO_ANO":2012,
@@ -4956,7 +5216,8 @@
     "country":"Paraguay",
     "mts":0.34,
     "year":"2012",
-    "month":"6"
+    "month":"6",
+    "date":"2012-06-01"
   },
   {
     "CO_ANO":2012,
@@ -4975,7 +5236,8 @@
     "country":"Mozambique",
     "mts":27500.0,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -4994,7 +5256,8 @@
     "country":"Mozambique",
     "mts":11881.0,
     "year":"2012",
-    "month":"11"
+    "month":"11",
+    "date":"2012-11-01"
   },
   {
     "CO_ANO":2012,
@@ -5013,7 +5276,8 @@
     "country":"Italy",
     "mts":24417.096,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5032,7 +5296,8 @@
     "country":"Egypt",
     "mts":89451.0,
     "year":"2012",
-    "month":"12"
+    "month":"12",
+    "date":"2012-12-01"
   },
   {
     "CO_ANO":2012,
@@ -5051,7 +5316,8 @@
     "country":"Paraguay",
     "mts":0.878,
     "year":"2012",
-    "month":"11"
+    "month":"11",
+    "date":"2012-11-01"
   },
   {
     "CO_ANO":2012,
@@ -5070,7 +5336,8 @@
     "country":"Nigeria",
     "mts":30800.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5089,7 +5356,8 @@
     "country":"Kenya",
     "mts":2536.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5108,7 +5376,8 @@
     "country":"South Africa",
     "mts":6000.0,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -5127,7 +5396,8 @@
     "country":"South Africa",
     "mts":77000.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5146,7 +5416,8 @@
     "country":"South Africa",
     "mts":29000.0,
     "year":"2012",
-    "month":"8"
+    "month":"8",
+    "date":"2012-08-01"
   },
   {
     "CO_ANO":2012,
@@ -5165,7 +5436,8 @@
     "country":"Algeria",
     "mts":23750.0,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -5184,7 +5456,8 @@
     "country":"Tunisia",
     "mts":26250.0,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -5203,7 +5476,8 @@
     "country":"Iran",
     "mts":77686.52,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -5222,7 +5496,8 @@
     "country":"Ecuador",
     "mts":8000.0,
     "year":"2012",
-    "month":"8"
+    "month":"8",
+    "date":"2012-08-01"
   },
   {
     "CO_ANO":2012,
@@ -5241,7 +5516,8 @@
     "country":"Mozambique",
     "mts":11500.0,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -5260,7 +5536,8 @@
     "country":"Egypt",
     "mts":5000.0,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -5279,7 +5556,8 @@
     "country":"Spain",
     "mts":9665.555,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -5298,7 +5576,8 @@
     "country":"South Africa",
     "mts":4000.0,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -5317,7 +5596,8 @@
     "country":"Saudi Arabia",
     "mts":20000.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5336,7 +5616,8 @@
     "country":"Egypt",
     "mts":42000.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5355,7 +5636,8 @@
     "country":"Angola",
     "mts":2.4,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5374,7 +5656,8 @@
     "country":"Egypt",
     "mts":964.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5393,7 +5676,8 @@
     "country":"Sudan",
     "mts":23504.95,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5412,7 +5696,8 @@
     "country":"Paraguay",
     "mts":0.14,
     "year":"2012",
-    "month":"7"
+    "month":"7",
+    "date":"2012-07-01"
   },
   {
     "CO_ANO":2012,
@@ -5431,7 +5716,8 @@
     "country":"Paraguay",
     "mts":1.27,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5450,7 +5736,8 @@
     "country":"South Africa",
     "mts":45483.484,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -5469,7 +5756,8 @@
     "country":"Mauritania",
     "mts":21616.0,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -5488,7 +5776,8 @@
     "country":"Mozambique",
     "mts":1000.0,
     "year":"2012",
-    "month":"1"
+    "month":"1",
+    "date":"2012-01-01"
   },
   {
     "CO_ANO":2012,
@@ -5507,7 +5796,8 @@
     "country":"Saudi Arabia",
     "mts":40250.0,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -5526,7 +5816,8 @@
     "country":"Djibouti",
     "mts":22168.235,
     "year":"2012",
-    "month":"7"
+    "month":"7",
+    "date":"2012-07-01"
   },
   {
     "CO_ANO":2012,
@@ -5545,7 +5836,8 @@
     "country":"Portugal",
     "mts":26250.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5564,7 +5856,8 @@
     "country":"Mauritania",
     "mts":16000.0,
     "year":"2012",
-    "month":"4"
+    "month":"4",
+    "date":"2012-04-01"
   },
   {
     "CO_ANO":2012,
@@ -5583,7 +5876,8 @@
     "country":"Mauritania",
     "mts":1000.0,
     "year":"2012",
-    "month":"5"
+    "month":"5",
+    "date":"2012-05-01"
   },
   {
     "CO_ANO":2012,
@@ -5602,7 +5896,8 @@
     "country":"Tunisia",
     "mts":25000.0,
     "year":"2012",
-    "month":"2"
+    "month":"2",
+    "date":"2012-02-01"
   },
   {
     "CO_ANO":2012,
@@ -5621,7 +5916,8 @@
     "country":"Libya",
     "mts":22339.248,
     "year":"2012",
-    "month":"3"
+    "month":"3",
+    "date":"2012-03-01"
   },
   {
     "CO_ANO":2012,
@@ -5640,7 +5936,8 @@
     "country":"Mauritania",
     "mts":3000.0,
     "year":"2012",
-    "month":"8"
+    "month":"8",
+    "date":"2012-08-01"
   },
   {
     "CO_ANO":2012,
@@ -5659,7 +5956,8 @@
     "country":"Egypt",
     "mts":37739.6,
     "year":"2012",
-    "month":"12"
+    "month":"12",
+    "date":"2012-12-01"
   },
   {
     "CO_ANO":2012,
@@ -5678,7 +5976,8 @@
     "country":"South Africa",
     "mts":42582.0,
     "year":"2012",
-    "month":"11"
+    "month":"11",
+    "date":"2012-11-01"
   },
   {
     "CO_ANO":2013,
@@ -5697,7 +5996,8 @@
     "country":"Paraguay",
     "mts":2000.0,
     "year":"2013",
-    "month":"12"
+    "month":"12",
+    "date":"2013-12-01"
   },
   {
     "CO_ANO":2013,
@@ -5716,7 +6016,8 @@
     "country":"Senegal",
     "mts":10998.709,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -5735,7 +6036,8 @@
     "country":"Israel",
     "mts":129277.218,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -5754,7 +6056,8 @@
     "country":"Portugal",
     "mts":0.084,
     "year":"2013",
-    "month":"3"
+    "month":"3",
+    "date":"2013-03-01"
   },
   {
     "CO_ANO":2013,
@@ -5773,7 +6076,8 @@
     "country":"Paraguay",
     "mts":0.09,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -5792,7 +6096,8 @@
     "country":"Tunisia",
     "mts":18229.22,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -5811,7 +6116,8 @@
     "country":"Spain",
     "mts":62000.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -5830,7 +6136,8 @@
     "country":"South Africa",
     "mts":35854.5,
     "year":"2013",
-    "month":"4"
+    "month":"4",
+    "date":"2013-04-01"
   },
   {
     "CO_ANO":2013,
@@ -5849,7 +6156,8 @@
     "country":"Mozambique",
     "mts":27150.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -5868,7 +6176,8 @@
     "country":"Paraguay",
     "mts":0.012,
     "year":"2013",
-    "month":"6"
+    "month":"6",
+    "date":"2013-06-01"
   },
   {
     "CO_ANO":2013,
@@ -5887,7 +6196,8 @@
     "country":"South Korea",
     "mts":5360.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -5906,7 +6216,8 @@
     "country":"Angola",
     "mts":0.18,
     "year":"2013",
-    "month":"6"
+    "month":"6",
+    "date":"2013-06-01"
   },
   {
     "CO_ANO":2013,
@@ -5925,7 +6236,8 @@
     "country":"Mozambique",
     "mts":0.24,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -5944,7 +6256,8 @@
     "country":"Angola",
     "mts":0.216,
     "year":"2013",
-    "month":"11"
+    "month":"11",
+    "date":"2013-11-01"
   },
   {
     "CO_ANO":2013,
@@ -5963,7 +6276,8 @@
     "country":"Germany",
     "mts":44482.914,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -5982,7 +6296,8 @@
     "country":"United Arab Emirates",
     "mts":12500.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6001,7 +6316,8 @@
     "country":"Angola",
     "mts":0.24,
     "year":"2013",
-    "month":"6"
+    "month":"6",
+    "date":"2013-06-01"
   },
   {
     "CO_ANO":2013,
@@ -6020,7 +6336,8 @@
     "country":"Angola",
     "mts":0.09,
     "year":"2013",
-    "month":"3"
+    "month":"3",
+    "date":"2013-03-01"
   },
   {
     "CO_ANO":2013,
@@ -6039,7 +6356,8 @@
     "country":"Paraguay",
     "mts":4146.92,
     "year":"2013",
-    "month":"12"
+    "month":"12",
+    "date":"2013-12-01"
   },
   {
     "CO_ANO":2013,
@@ -6058,7 +6376,8 @@
     "country":"Spain",
     "mts":93843.838,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -6077,7 +6396,8 @@
     "country":"Mozambique",
     "mts":8925.0,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -6096,7 +6416,8 @@
     "country":"Germany",
     "mts":69571.34,
     "year":"2013",
-    "month":"3"
+    "month":"3",
+    "date":"2013-03-01"
   },
   {
     "CO_ANO":2013,
@@ -6115,7 +6436,8 @@
     "country":"Paraguay",
     "mts":2200.0,
     "year":"2013",
-    "month":"12"
+    "month":"12",
+    "date":"2013-12-01"
   },
   {
     "CO_ANO":2013,
@@ -6134,7 +6456,8 @@
     "country":"South Korea",
     "mts":57000.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6153,7 +6476,8 @@
     "country":"Paraguay",
     "mts":0.27,
     "year":"2013",
-    "month":"3"
+    "month":"3",
+    "date":"2013-03-01"
   },
   {
     "CO_ANO":2013,
@@ -6172,7 +6496,8 @@
     "country":"Paraguay",
     "mts":0.73,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -6191,7 +6516,8 @@
     "country":"South Africa",
     "mts":31450.0,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -6210,7 +6536,8 @@
     "country":"South Africa",
     "mts":11000.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6229,7 +6556,8 @@
     "country":"Israel",
     "mts":45100.0,
     "year":"2013",
-    "month":"4"
+    "month":"4",
+    "date":"2013-04-01"
   },
   {
     "CO_ANO":2013,
@@ -6248,7 +6576,8 @@
     "country":"Angola",
     "mts":0.054,
     "year":"2013",
-    "month":"4"
+    "month":"4",
+    "date":"2013-04-01"
   },
   {
     "CO_ANO":2013,
@@ -6267,7 +6596,8 @@
     "country":"Spain",
     "mts":60559.271,
     "year":"2013",
-    "month":"4"
+    "month":"4",
+    "date":"2013-04-01"
   },
   {
     "CO_ANO":2013,
@@ -6286,7 +6616,8 @@
     "country":"South Africa",
     "mts":50236.939,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -6305,7 +6636,8 @@
     "country":"Uruguay",
     "mts":280.0,
     "year":"2013",
-    "month":"6"
+    "month":"6",
+    "date":"2013-06-01"
   },
   {
     "CO_ANO":2013,
@@ -6324,7 +6656,8 @@
     "country":"Paraguay",
     "mts":0.15,
     "year":"2013",
-    "month":"4"
+    "month":"4",
+    "date":"2013-04-01"
   },
   {
     "CO_ANO":2013,
@@ -6343,7 +6676,8 @@
     "country":"Paraguay",
     "mts":0.09,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6362,7 +6696,8 @@
     "country":"Angola",
     "mts":0.24,
     "year":"2013",
-    "month":"4"
+    "month":"4",
+    "date":"2013-04-01"
   },
   {
     "CO_ANO":2013,
@@ -6381,7 +6716,8 @@
     "country":"South Korea",
     "mts":64212.993,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -6400,7 +6736,8 @@
     "country":"Spain",
     "mts":3000.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6419,7 +6756,8 @@
     "country":"Saudi Arabia",
     "mts":32500.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6438,7 +6776,8 @@
     "country":"Israel",
     "mts":2500.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6457,7 +6796,8 @@
     "country":"Paraguay",
     "mts":0.058,
     "year":"2013",
-    "month":"3"
+    "month":"3",
+    "date":"2013-03-01"
   },
   {
     "CO_ANO":2013,
@@ -6476,7 +6816,8 @@
     "country":"South Africa",
     "mts":81094.392,
     "year":"2013",
-    "month":"3"
+    "month":"3",
+    "date":"2013-03-01"
   },
   {
     "CO_ANO":2013,
@@ -6495,7 +6836,8 @@
     "country":"Iran",
     "mts":6190.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6514,7 +6856,8 @@
     "country":"South Korea",
     "mts":3640.0,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -6533,7 +6876,8 @@
     "country":"South Korea",
     "mts":52897.007,
     "year":"2013",
-    "month":"3"
+    "month":"3",
+    "date":"2013-03-01"
   },
   {
     "CO_ANO":2013,
@@ -6552,7 +6896,8 @@
     "country":"Iran",
     "mts":39500.0,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6571,7 +6916,8 @@
     "country":"Angola",
     "mts":0.24,
     "year":"2013",
-    "month":"3"
+    "month":"3",
+    "date":"2013-03-01"
   },
   {
     "CO_ANO":2013,
@@ -6590,7 +6936,8 @@
     "country":"Paraguay",
     "mts":1000.0,
     "year":"2013",
-    "month":"11"
+    "month":"11",
+    "date":"2013-11-01"
   },
   {
     "CO_ANO":2013,
@@ -6609,7 +6956,8 @@
     "country":"Spain",
     "mts":800.0,
     "year":"2013",
-    "month":"3"
+    "month":"3",
+    "date":"2013-03-01"
   },
   {
     "CO_ANO":2013,
@@ -6628,7 +6976,8 @@
     "country":"Saudi Arabia",
     "mts":30041.623,
     "year":"2013",
-    "month":"1"
+    "month":"1",
+    "date":"2013-01-01"
   },
   {
     "CO_ANO":2013,
@@ -6647,7 +6996,8 @@
     "country":"Isle of Man",
     "mts":22573.456,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2013,
@@ -6666,7 +7016,8 @@
     "country":"Egypt",
     "mts":65892.451,
     "year":"2013",
-    "month":"2"
+    "month":"2",
+    "date":"2013-02-01"
   },
   {
     "CO_ANO":2014,
@@ -6685,7 +7036,8 @@
     "country":"Vietnam",
     "mts":65714.07,
     "year":"2014",
-    "month":"12"
+    "month":"12",
+    "date":"2014-12-01"
   },
   {
     "CO_ANO":2014,
@@ -6704,7 +7056,8 @@
     "country":"Thailand",
     "mts":53869.155,
     "year":"2014",
-    "month":"12"
+    "month":"12",
+    "date":"2014-12-01"
   },
   {
     "CO_ANO":2014,
@@ -6723,7 +7076,8 @@
     "country":"Paraguay",
     "mts":1000.0,
     "year":"2014",
-    "month":"2"
+    "month":"2",
+    "date":"2014-02-01"
   },
   {
     "CO_ANO":2014,
@@ -6742,7 +7096,8 @@
     "country":"Angola",
     "mts":0.252,
     "year":"2014",
-    "month":"10"
+    "month":"10",
+    "date":"2014-10-01"
   },
   {
     "CO_ANO":2014,
@@ -6761,7 +7116,8 @@
     "country":"Portugal",
     "mts":2.0,
     "year":"2014",
-    "month":"1"
+    "month":"1",
+    "date":"2014-01-01"
   },
   {
     "CO_ANO":2014,
@@ -6780,7 +7136,8 @@
     "country":"Paraguay",
     "mts":500.0,
     "year":"2014",
-    "month":"2"
+    "month":"2",
+    "date":"2014-02-01"
   },
   {
     "CO_ANO":2014,
@@ -6799,7 +7156,8 @@
     "country":"Angola",
     "mts":0.84,
     "year":"2014",
-    "month":"8"
+    "month":"8",
+    "date":"2014-08-01"
   },
   {
     "CO_ANO":2014,
@@ -6818,7 +7176,8 @@
     "country":"Paraguay",
     "mts":500.0,
     "year":"2014",
-    "month":"7"
+    "month":"7",
+    "date":"2014-07-01"
   },
   {
     "CO_ANO":2014,
@@ -6837,7 +7196,8 @@
     "country":"Paraguay",
     "mts":1160.0,
     "year":"2014",
-    "month":"3"
+    "month":"3",
+    "date":"2014-03-01"
   },
   {
     "CO_ANO":2014,
@@ -6856,7 +7216,8 @@
     "country":"Paraguay",
     "mts":1000.0,
     "year":"2014",
-    "month":"4"
+    "month":"4",
+    "date":"2014-04-01"
   },
   {
     "CO_ANO":2014,
@@ -6875,7 +7236,8 @@
     "country":"Paraguay",
     "mts":500.0,
     "year":"2014",
-    "month":"6"
+    "month":"6",
+    "date":"2014-06-01"
   },
   {
     "CO_ANO":2014,
@@ -6894,7 +7256,8 @@
     "country":"Paraguay",
     "mts":400.0,
     "year":"2014",
-    "month":"4"
+    "month":"4",
+    "date":"2014-04-01"
   },
   {
     "CO_ANO":2014,
@@ -6913,7 +7276,8 @@
     "country":"Angola",
     "mts":0.084,
     "year":"2014",
-    "month":"2"
+    "month":"2",
+    "date":"2014-02-01"
   },
   {
     "CO_ANO":2014,
@@ -6932,7 +7296,8 @@
     "country":"Paraguay",
     "mts":1000.0,
     "year":"2014",
-    "month":"7"
+    "month":"7",
+    "date":"2014-07-01"
   },
   {
     "CO_ANO":2014,
@@ -6951,7 +7316,8 @@
     "country":"Philippines",
     "mts":73507.82,
     "year":"2014",
-    "month":"12"
+    "month":"12",
+    "date":"2014-12-01"
   },
   {
     "CO_ANO":2014,
@@ -6970,7 +7336,8 @@
     "country":"Paraguay",
     "mts":3000.0,
     "year":"2014",
-    "month":"1"
+    "month":"1",
+    "date":"2014-01-01"
   },
   {
     "CO_ANO":2014,
@@ -6989,7 +7356,8 @@
     "country":"United States",
     "mts":0.4,
     "year":"2014",
-    "month":"11"
+    "month":"11",
+    "date":"2014-11-01"
   },
   {
     "CO_ANO":2014,
@@ -7008,7 +7376,8 @@
     "country":"Paraguay",
     "mts":510.0,
     "year":"2014",
-    "month":"5"
+    "month":"5",
+    "date":"2014-05-01"
   },
   {
     "CO_ANO":2014,
@@ -7027,7 +7396,8 @@
     "country":"Paraguay",
     "mts":1000.0,
     "year":"2014",
-    "month":"3"
+    "month":"3",
+    "date":"2014-03-01"
   },
   {
     "CO_ANO":2014,
@@ -7046,7 +7416,8 @@
     "country":"Vietnam",
     "mts":498.72,
     "year":"2014",
-    "month":"12"
+    "month":"12",
+    "date":"2014-12-01"
   },
   {
     "CO_ANO":2014,
@@ -7065,7 +7436,8 @@
     "country":"Paraguay",
     "mts":5353.08,
     "year":"2014",
-    "month":"1"
+    "month":"1",
+    "date":"2014-01-01"
   },
   {
     "CO_ANO":2014,
@@ -7084,7 +7456,8 @@
     "country":"Paraguay",
     "mts":2000.0,
     "year":"2014",
-    "month":"1"
+    "month":"1",
+    "date":"2014-01-01"
   },
   {
     "CO_ANO":2014,
@@ -7103,7 +7476,8 @@
     "country":"United Kingdom",
     "mts":0.24,
     "year":"2014",
-    "month":"2"
+    "month":"2",
+    "date":"2014-02-01"
   },
   {
     "CO_ANO":2014,
@@ -7122,7 +7496,8 @@
     "country":"Angola",
     "mts":0.168,
     "year":"2014",
-    "month":"6"
+    "month":"6",
+    "date":"2014-06-01"
   },
   {
     "CO_ANO":2014,
@@ -7141,7 +7516,8 @@
     "country":"Paraguay",
     "mts":3000.0,
     "year":"2014",
-    "month":"5"
+    "month":"5",
+    "date":"2014-05-01"
   },
   {
     "CO_ANO":2014,
@@ -7160,7 +7536,8 @@
     "country":"Paraguay",
     "mts":5500.0,
     "year":"2014",
-    "month":"3"
+    "month":"3",
+    "date":"2014-03-01"
   },
   {
     "CO_ANO":2014,
@@ -7179,7 +7556,8 @@
     "country":"Paraguay",
     "mts":0.8,
     "year":"2014",
-    "month":"6"
+    "month":"6",
+    "date":"2014-06-01"
   },
   {
     "CO_ANO":2014,
@@ -7198,7 +7576,8 @@
     "country":"Angola",
     "mts":0.016,
     "year":"2014",
-    "month":"8"
+    "month":"8",
+    "date":"2014-08-01"
   },
   {
     "CO_ANO":2014,
@@ -7217,7 +7596,8 @@
     "country":"Portugal",
     "mts":0.09,
     "year":"2014",
-    "month":"6"
+    "month":"6",
+    "date":"2014-06-01"
   },
   {
     "CO_ANO":2014,
@@ -7236,7 +7616,8 @@
     "country":"Paraguay",
     "mts":1000.0,
     "year":"2014",
-    "month":"2"
+    "month":"2",
+    "date":"2014-02-01"
   },
   {
     "CO_ANO":2014,
@@ -7255,7 +7636,8 @@
     "country":"Philippines",
     "mts":41696.62,
     "year":"2014",
-    "month":"11"
+    "month":"11",
+    "date":"2014-11-01"
   },
   {
     "CO_ANO":2014,
@@ -7274,7 +7656,8 @@
     "country":"Paraguay",
     "mts":7750.0,
     "year":"2014",
-    "month":"1"
+    "month":"1",
+    "date":"2014-01-01"
   },
   {
     "CO_ANO":2014,
@@ -7293,7 +7676,8 @@
     "country":"Vietnam",
     "mts":3615.72,
     "year":"2014",
-    "month":"12"
+    "month":"12",
+    "date":"2014-12-01"
   },
   {
     "CO_ANO":2014,
@@ -7312,7 +7696,8 @@
     "country":"Paraguay",
     "mts":720.0,
     "year":"2014",
-    "month":"5"
+    "month":"5",
+    "date":"2014-05-01"
   },
   {
     "CO_ANO":2014,
@@ -7331,7 +7716,8 @@
     "country":"Paraguay",
     "mts":2000.0,
     "year":"2014",
-    "month":"4"
+    "month":"4",
+    "date":"2014-04-01"
   },
   {
     "CO_ANO":2015,
@@ -7350,7 +7736,8 @@
     "country":"Philippines",
     "mts":62310.0,
     "year":"2015",
-    "month":"5"
+    "month":"5",
+    "date":"2015-05-01"
   },
   {
     "CO_ANO":2015,
@@ -7369,7 +7756,8 @@
     "country":"South Korea",
     "mts":16.0,
     "year":"2015",
-    "month":"11"
+    "month":"11",
+    "date":"2015-11-01"
   },
   {
     "CO_ANO":2015,
@@ -7388,7 +7776,8 @@
     "country":"Vietnam",
     "mts":2988.76,
     "year":"2015",
-    "month":"12"
+    "month":"12",
+    "date":"2015-12-01"
   },
   {
     "CO_ANO":2015,
@@ -7407,7 +7796,8 @@
     "country":"South Korea",
     "mts":57750.0,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7426,7 +7816,8 @@
     "country":"Philippines",
     "mts":58850.0,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7445,7 +7836,8 @@
     "country":"Morocco",
     "mts":8000.0,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7464,7 +7856,8 @@
     "country":"Vietnam",
     "mts":500.4,
     "year":"2015",
-    "month":"12"
+    "month":"12",
+    "date":"2015-12-01"
   },
   {
     "CO_ANO":2015,
@@ -7483,7 +7876,8 @@
     "country":"Myanmar",
     "mts":282.2,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -7502,7 +7896,8 @@
     "country":"Vietnam",
     "mts":103895.0,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7521,7 +7916,8 @@
     "country":"Portugal",
     "mts":1.0,
     "year":"2015",
-    "month":"5"
+    "month":"5",
+    "date":"2015-05-01"
   },
   {
     "CO_ANO":2015,
@@ -7540,7 +7936,8 @@
     "country":"Indonesia",
     "mts":408.56,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7559,7 +7956,8 @@
     "country":"Morocco",
     "mts":26046.83,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7578,7 +7976,8 @@
     "country":"Vietnam",
     "mts":27153.325,
     "year":"2015",
-    "month":"4"
+    "month":"4",
+    "date":"2015-04-01"
   },
   {
     "CO_ANO":2015,
@@ -7597,7 +7996,8 @@
     "country":"Vietnam",
     "mts":114481.095,
     "year":"2015",
-    "month":"12"
+    "month":"12",
+    "date":"2015-12-01"
   },
   {
     "CO_ANO":2015,
@@ -7616,7 +8016,8 @@
     "country":"South Korea",
     "mts":57750.0,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -7635,7 +8036,8 @@
     "country":"Kuwait",
     "mts":113.14,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -7654,7 +8056,8 @@
     "country":"Vietnam",
     "mts":1000.69,
     "year":"2015",
-    "month":"3"
+    "month":"3",
+    "date":"2015-03-01"
   },
   {
     "CO_ANO":2015,
@@ -7673,7 +8076,8 @@
     "country":"Thailand",
     "mts":63075.0,
     "year":"2015",
-    "month":"4"
+    "month":"4",
+    "date":"2015-04-01"
   },
   {
     "CO_ANO":2015,
@@ -7692,7 +8096,8 @@
     "country":"Vietnam",
     "mts":27359.975,
     "year":"2015",
-    "month":"4"
+    "month":"4",
+    "date":"2015-04-01"
   },
   {
     "CO_ANO":2015,
@@ -7711,7 +8116,8 @@
     "country":"Bangladesh",
     "mts":99818.11,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -7730,7 +8136,8 @@
     "country":"Vietnam",
     "mts":3532.7,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7749,7 +8156,8 @@
     "country":"Paraguay",
     "mts":0.021,
     "year":"2015",
-    "month":"7"
+    "month":"7",
+    "date":"2015-07-01"
   },
   {
     "CO_ANO":2015,
@@ -7768,7 +8176,8 @@
     "country":"Vietnam",
     "mts":8197.0,
     "year":"2015",
-    "month":"7"
+    "month":"7",
+    "date":"2015-07-01"
   },
   {
     "CO_ANO":2015,
@@ -7787,7 +8196,8 @@
     "country":"Bangladesh",
     "mts":103992.925,
     "year":"2015",
-    "month":"3"
+    "month":"3",
+    "date":"2015-03-01"
   },
   {
     "CO_ANO":2015,
@@ -7806,7 +8216,8 @@
     "country":"Thailand",
     "mts":110254.02,
     "year":"2015",
-    "month":"12"
+    "month":"12",
+    "date":"2015-12-01"
   },
   {
     "CO_ANO":2015,
@@ -7825,7 +8236,8 @@
     "country":"Philippines",
     "mts":73250.0,
     "year":"2015",
-    "month":"12"
+    "month":"12",
+    "date":"2015-12-01"
   },
   {
     "CO_ANO":2015,
@@ -7844,7 +8256,8 @@
     "country":"Indonesia",
     "mts":546.18,
     "year":"2015",
-    "month":"3"
+    "month":"3",
+    "date":"2015-03-01"
   },
   {
     "CO_ANO":2015,
@@ -7863,7 +8276,8 @@
     "country":"Vietnam",
     "mts":4522.43,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -7882,7 +8296,8 @@
     "country":"Philippines",
     "mts":52806.31,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -7901,7 +8316,8 @@
     "country":"Thailand",
     "mts":147156.915,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7920,7 +8336,8 @@
     "country":"Portugal",
     "mts":1.0,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7939,7 +8356,8 @@
     "country":"Philippines",
     "mts":64459.206,
     "year":"2015",
-    "month":"4"
+    "month":"4",
+    "date":"2015-04-01"
   },
   {
     "CO_ANO":2015,
@@ -7958,7 +8376,8 @@
     "country":"Vietnam",
     "mts":610.658,
     "year":"2015",
-    "month":"3"
+    "month":"3",
+    "date":"2015-03-01"
   },
   {
     "CO_ANO":2015,
@@ -7977,7 +8396,8 @@
     "country":"Bangladesh",
     "mts":55201.89,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -7996,7 +8416,8 @@
     "country":"Ecuador",
     "mts":31450.0,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -8015,7 +8436,8 @@
     "country":"Indonesia",
     "mts":209.48,
     "year":"2015",
-    "month":"12"
+    "month":"12",
+    "date":"2015-12-01"
   },
   {
     "CO_ANO":2015,
@@ -8034,7 +8456,8 @@
     "country":"Portugal",
     "mts":1.0,
     "year":"2015",
-    "month":"8"
+    "month":"8",
+    "date":"2015-08-01"
   },
   {
     "CO_ANO":2015,
@@ -8053,7 +8476,8 @@
     "country":"Vietnam",
     "mts":64050.845,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -8072,7 +8496,8 @@
     "country":"Vietnam",
     "mts":2072.0,
     "year":"2015",
-    "month":"5"
+    "month":"5",
+    "date":"2015-05-01"
   },
   {
     "CO_ANO":2015,
@@ -8091,7 +8516,8 @@
     "country":"Colombia",
     "mts":33000.0,
     "year":"2015",
-    "month":"12"
+    "month":"12",
+    "date":"2015-12-01"
   },
   {
     "CO_ANO":2015,
@@ -8110,7 +8536,8 @@
     "country":"Thailand",
     "mts":184800.0,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -8129,7 +8556,8 @@
     "country":"Vietnam",
     "mts":2556.31,
     "year":"2015",
-    "month":"12"
+    "month":"12",
+    "date":"2015-12-01"
   },
   {
     "CO_ANO":2015,
@@ -8148,7 +8576,8 @@
     "country":"Indonesia",
     "mts":534.57,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2015,
@@ -8167,7 +8596,8 @@
     "country":"Morocco",
     "mts":6041.23,
     "year":"2015",
-    "month":"3"
+    "month":"3",
+    "date":"2015-03-01"
   },
   {
     "CO_ANO":2015,
@@ -8186,7 +8616,8 @@
     "country":"Saudi Arabia",
     "mts":61674.027,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -8205,7 +8636,8 @@
     "country":"Morocco",
     "mts":12828.59,
     "year":"2015",
-    "month":"3"
+    "month":"3",
+    "date":"2015-03-01"
   },
   {
     "CO_ANO":2015,
@@ -8224,7 +8656,8 @@
     "country":"Vietnam",
     "mts":3620.143,
     "year":"2015",
-    "month":"4"
+    "month":"4",
+    "date":"2015-04-01"
   },
   {
     "CO_ANO":2015,
@@ -8243,7 +8676,8 @@
     "country":"Thailand",
     "mts":11290.759,
     "year":"2015",
-    "month":"3"
+    "month":"3",
+    "date":"2015-03-01"
   },
   {
     "CO_ANO":2015,
@@ -8262,7 +8696,8 @@
     "country":"Mauritania",
     "mts":27297.07,
     "year":"2015",
-    "month":"1"
+    "month":"1",
+    "date":"2015-01-01"
   },
   {
     "CO_ANO":2015,
@@ -8281,7 +8716,8 @@
     "country":"Morocco",
     "mts":953.17,
     "year":"2015",
-    "month":"2"
+    "month":"2",
+    "date":"2015-02-01"
   },
   {
     "CO_ANO":2016,
@@ -8300,7 +8736,8 @@
     "country":"Ecuador",
     "mts":99.21,
     "year":"2016",
-    "month":"3"
+    "month":"3",
+    "date":"2016-03-01"
   },
   {
     "CO_ANO":2016,
@@ -8319,7 +8756,8 @@
     "country":"Vietnam",
     "mts":120450.071,
     "year":"2016",
-    "month":"3"
+    "month":"3",
+    "date":"2016-03-01"
   },
   {
     "CO_ANO":2016,
@@ -8338,7 +8776,8 @@
     "country":"Indonesia",
     "mts":53613.875,
     "year":"2016",
-    "month":"2"
+    "month":"2",
+    "date":"2016-02-01"
   },
   {
     "CO_ANO":2016,
@@ -8357,7 +8796,8 @@
     "country":"Taiwan",
     "mts":1784.095,
     "year":"2016",
-    "month":"2"
+    "month":"2",
+    "date":"2016-02-01"
   },
   {
     "CO_ANO":2016,
@@ -8376,7 +8816,8 @@
     "country":"Philippines",
     "mts":56266.0,
     "year":"2016",
-    "month":"3"
+    "month":"3",
+    "date":"2016-03-01"
   },
   {
     "CO_ANO":2016,
@@ -8395,7 +8836,8 @@
     "country":"Philippines",
     "mts":43500.0,
     "year":"2016",
-    "month":"4"
+    "month":"4",
+    "date":"2016-04-01"
   },
   {
     "CO_ANO":2016,
@@ -8414,7 +8856,8 @@
     "country":"Ecuador",
     "mts":29571.54,
     "year":"2016",
-    "month":"1"
+    "month":"1",
+    "date":"2016-01-01"
   },
   {
     "CO_ANO":2016,
@@ -8433,7 +8876,8 @@
     "country":"Israel",
     "mts":53688.75,
     "year":"2016",
-    "month":"1"
+    "month":"1",
+    "date":"2016-01-01"
   },
   {
     "CO_ANO":2016,
@@ -8452,7 +8896,8 @@
     "country":"Taiwan",
     "mts":975.982,
     "year":"2016",
-    "month":"3"
+    "month":"3",
+    "date":"2016-03-01"
   },
   {
     "CO_ANO":2016,
@@ -8471,7 +8916,8 @@
     "country":"Philippines",
     "mts":254.362,
     "year":"2016",
-    "month":"3"
+    "month":"3",
+    "date":"2016-03-01"
   },
   {
     "CO_ANO":2016,
@@ -8490,7 +8936,8 @@
     "country":"Portugal",
     "mts":1.0,
     "year":"2016",
-    "month":"3"
+    "month":"3",
+    "date":"2016-03-01"
   },
   {
     "CO_ANO":2016,
@@ -8509,7 +8956,8 @@
     "country":"Philippines",
     "mts":9723.591,
     "year":"2016",
-    "month":"5"
+    "month":"5",
+    "date":"2016-05-01"
   },
   {
     "CO_ANO":2016,
@@ -8528,7 +8976,8 @@
     "country":"Colombia",
     "mts":48916.145,
     "year":"2016",
-    "month":"4"
+    "month":"4",
+    "date":"2016-04-01"
   },
   {
     "CO_ANO":2016,
@@ -8547,7 +8996,8 @@
     "country":"Ecuador",
     "mts":32450.0,
     "year":"2016",
-    "month":"3"
+    "month":"3",
+    "date":"2016-03-01"
   },
   {
     "CO_ANO":2016,
@@ -8566,7 +9016,8 @@
     "country":"Colombia",
     "mts":49000.0,
     "year":"2016",
-    "month":"2"
+    "month":"2",
+    "date":"2016-02-01"
   },
   {
     "CO_ANO":2016,
@@ -8585,7 +9036,8 @@
     "country":"Malaysia",
     "mts":1294.97,
     "year":"2016",
-    "month":"2"
+    "month":"2",
+    "date":"2016-02-01"
   },
   {
     "CO_ANO":2016,
@@ -8604,7 +9056,8 @@
     "country":"Vietnam",
     "mts":73962.845,
     "year":"2016",
-    "month":"1"
+    "month":"1",
+    "date":"2016-01-01"
   },
   {
     "CO_ANO":2016,
@@ -8623,7 +9076,8 @@
     "country":"Taiwan",
     "mts":787.304,
     "year":"2016",
-    "month":"1"
+    "month":"1",
+    "date":"2016-01-01"
   },
   {
     "CO_ANO":2016,
@@ -8642,7 +9096,8 @@
     "country":"Vietnam",
     "mts":1972.8,
     "year":"2016",
-    "month":"2"
+    "month":"2",
+    "date":"2016-02-01"
   },
   {
     "CO_ANO":2016,
@@ -8661,7 +9116,8 @@
     "country":"Philippines",
     "mts":49500.0,
     "year":"2016",
-    "month":"2"
+    "month":"2",
+    "date":"2016-02-01"
   },
   {
     "CO_ANO":2016,
@@ -8680,7 +9136,8 @@
     "country":"Philippines",
     "mts":990.49,
     "year":"2016",
-    "month":"5"
+    "month":"5",
+    "date":"2016-05-01"
   },
   {
     "CO_ANO":2016,
@@ -8699,7 +9156,8 @@
     "country":"Vietnam",
     "mts":19000.0,
     "year":"2016",
-    "month":"5"
+    "month":"5",
+    "date":"2016-05-01"
   },
   {
     "CO_ANO":2016,
@@ -8718,7 +9176,8 @@
     "country":"Portugal",
     "mts":1.0,
     "year":"2016",
-    "month":"8"
+    "month":"8",
+    "date":"2016-08-01"
   },
   {
     "CO_ANO":2016,
@@ -8737,7 +9196,8 @@
     "country":"Vietnam",
     "mts":526.0,
     "year":"2016",
-    "month":"1"
+    "month":"1",
+    "date":"2016-01-01"
   },
   {
     "CO_ANO":2016,
@@ -8756,7 +9216,8 @@
     "country":"Philippines",
     "mts":64512.148,
     "year":"2016",
-    "month":"3"
+    "month":"3",
+    "date":"2016-03-01"
   },
   {
     "CO_ANO":2017,
@@ -8775,7 +9236,8 @@
     "country":"Portugal",
     "mts":1.0,
     "year":"2017",
-    "month":"1"
+    "month":"1",
+    "date":"2017-01-01"
   },
   {
     "CO_ANO":2017,
@@ -8794,7 +9256,8 @@
     "country":"Mauritania",
     "mts":30250.0,
     "year":"2017",
-    "month":"2"
+    "month":"2",
+    "date":"2017-02-01"
   },
   {
     "CO_ANO":2017,
@@ -8813,7 +9276,8 @@
     "country":"South Korea",
     "mts":125872.72,
     "year":"2017",
-    "month":"1"
+    "month":"1",
+    "date":"2017-01-01"
   },
   {
     "CO_ANO":2017,
@@ -8832,7 +9296,8 @@
     "country":"Algeria",
     "mts":30719.44,
     "year":"2017",
-    "month":"4"
+    "month":"4",
+    "date":"2017-04-01"
   },
   {
     "CO_ANO":2017,
@@ -8851,7 +9316,8 @@
     "country":"Paraguay",
     "mts":48.0,
     "year":"2017",
-    "month":"5"
+    "month":"5",
+    "date":"2017-05-01"
   },
   {
     "CO_ANO":2017,
@@ -8870,7 +9336,8 @@
     "country":"Saudi Arabia",
     "mts":62430.395,
     "year":"2017",
-    "month":"2"
+    "month":"2",
+    "date":"2017-02-01"
   },
   {
     "CO_ANO":2017,
@@ -8889,7 +9356,8 @@
     "country":"South Korea",
     "mts":74054.82,
     "year":"2017",
-    "month":"3"
+    "month":"3",
+    "date":"2017-03-01"
   },
   {
     "CO_ANO":2017,
@@ -8908,7 +9376,8 @@
     "country":"South Korea",
     "mts":50550.0,
     "year":"2017",
-    "month":"2"
+    "month":"2",
+    "date":"2017-02-01"
   },
   {
     "CO_ANO":2017,
@@ -8927,7 +9396,8 @@
     "country":"Indonesia",
     "mts":64431.37,
     "year":"2017",
-    "month":"1"
+    "month":"1",
+    "date":"2017-01-01"
   },
   {
     "CO_ANO":2017,
@@ -8946,7 +9416,8 @@
     "country":"Mauritania",
     "mts":30250.0,
     "year":"2017",
-    "month":"3"
+    "month":"3",
+    "date":"2017-03-01"
   },
   {
     "CO_ANO":2017,
@@ -8965,7 +9436,8 @@
     "country":"Vietnam",
     "mts":40800.0,
     "year":"2017",
-    "month":"12"
+    "month":"12",
+    "date":"2017-12-01"
   },
   {
     "CO_ANO":2017,
@@ -8984,7 +9456,8 @@
     "country":"Vietnam",
     "mts":66116.015,
     "year":"2017",
-    "month":"2"
+    "month":"2",
+    "date":"2017-02-01"
   },
   {
     "CO_ANO":2017,
@@ -9003,7 +9476,8 @@
     "country":"Venezuela",
     "mts":35.0,
     "year":"2017",
-    "month":"10"
+    "month":"10",
+    "date":"2017-10-01"
   },
   {
     "CO_ANO":2017,
@@ -9022,7 +9496,8 @@
     "country":"Vietnam",
     "mts":21325.0,
     "year":"2017",
-    "month":"3"
+    "month":"3",
+    "date":"2017-03-01"
   },
   {
     "CO_ANO":2017,
@@ -9041,7 +9516,8 @@
     "country":"United States",
     "mts":0.1,
     "year":"2017",
-    "month":"10"
+    "month":"10",
+    "date":"2017-10-01"
   },
   {
     "CO_ANO":2017,
@@ -9060,7 +9536,8 @@
     "country":"Vietnam",
     "mts":20732.438,
     "year":"2017",
-    "month":"5"
+    "month":"5",
+    "date":"2017-05-01"
   },
   {
     "CO_ANO":2018,
@@ -9079,7 +9556,8 @@
     "country":"Philippines",
     "mts":51865.0,
     "year":"2018",
-    "month":"3"
+    "month":"3",
+    "date":"2018-03-01"
   },
   {
     "CO_ANO":2018,
@@ -9098,7 +9576,8 @@
     "country":"Vietnam",
     "mts":24200.0,
     "year":"2018",
-    "month":"1"
+    "month":"1",
+    "date":"2018-01-01"
   },
   {
     "CO_ANO":2018,
@@ -9117,7 +9596,8 @@
     "country":"Nigeria",
     "mts":498.92,
     "year":"2018",
-    "month":"3"
+    "month":"3",
+    "date":"2018-03-01"
   },
   {
     "CO_ANO":2018,
@@ -9136,7 +9616,8 @@
     "country":"Thailand",
     "mts":65331.175,
     "year":"2018",
-    "month":"1"
+    "month":"1",
+    "date":"2018-01-01"
   },
   {
     "CO_ANO":2018,
@@ -9155,7 +9636,8 @@
     "country":"Vietnam",
     "mts":21274.27,
     "year":"2018",
-    "month":"2"
+    "month":"2",
+    "date":"2018-02-01"
   },
   {
     "CO_ANO":2018,
@@ -9174,7 +9656,8 @@
     "country":"Marshall Islands",
     "mts":0.15,
     "year":"2018",
-    "month":"12"
+    "month":"12",
+    "date":"2018-12-01"
   },
   {
     "CO_ANO":2018,
@@ -9193,7 +9676,8 @@
     "country":"Paraguay",
     "mts":25.0,
     "year":"2018",
-    "month":"5"
+    "month":"5",
+    "date":"2018-05-01"
   },
   {
     "CO_ANO":2018,
@@ -9212,7 +9696,8 @@
     "country":"Philippines",
     "mts":55927.0,
     "year":"2018",
-    "month":"12"
+    "month":"12",
+    "date":"2018-12-01"
   },
   {
     "CO_ANO":2018,
@@ -9231,7 +9716,8 @@
     "country":"Paraguay",
     "mts":0.056,
     "year":"2018",
-    "month":"6"
+    "month":"6",
+    "date":"2018-06-01"
   },
   {
     "CO_ANO":2018,
@@ -9250,7 +9736,8 @@
     "country":"Philippines",
     "mts":2000.0,
     "year":"2018",
-    "month":"2"
+    "month":"2",
+    "date":"2018-02-01"
   },
   {
     "CO_ANO":2018,
@@ -9269,7 +9756,8 @@
     "country":"Paraguay",
     "mts":0.016,
     "year":"2018",
-    "month":"7"
+    "month":"7",
+    "date":"2018-07-01"
   },
   {
     "CO_ANO":2019,
@@ -9288,7 +9776,8 @@
     "country":"Philippines",
     "mts":11183.196,
     "year":"2019",
-    "month":"2"
+    "month":"2",
+    "date":"2019-02-01"
   },
   {
     "CO_ANO":2019,
@@ -9307,7 +9796,8 @@
     "country":"Indonesia",
     "mts":1340.276,
     "year":"2019",
-    "month":"7"
+    "month":"7",
+    "date":"2019-07-01"
   },
   {
     "CO_ANO":2019,
@@ -9326,7 +9816,8 @@
     "country":"Indonesia",
     "mts":147.725,
     "year":"2019",
-    "month":"7"
+    "month":"7",
+    "date":"2019-07-01"
   },
   {
     "CO_ANO":2019,
@@ -9345,7 +9836,8 @@
     "country":"Vietnam",
     "mts":22510.08,
     "year":"2019",
-    "month":"1"
+    "month":"1",
+    "date":"2019-01-01"
   },
   {
     "CO_ANO":2019,
@@ -9364,7 +9856,8 @@
     "country":"Cyprus",
     "mts":0.01,
     "year":"2019",
-    "month":"10"
+    "month":"10",
+    "date":"2019-10-01"
   },
   {
     "CO_ANO":2019,
@@ -9383,7 +9876,8 @@
     "country":"Philippines",
     "mts":483.757,
     "year":"2019",
-    "month":"3"
+    "month":"3",
+    "date":"2019-03-01"
   },
   {
     "CO_ANO":2019,
@@ -9402,7 +9896,8 @@
     "country":"Austria",
     "mts":0.001,
     "year":"2019",
-    "month":"8"
+    "month":"8",
+    "date":"2019-08-01"
   },
   {
     "CO_ANO":2019,
@@ -9421,7 +9916,8 @@
     "country":"Malta",
     "mts":0.03,
     "year":"2019",
-    "month":"9"
+    "month":"9",
+    "date":"2019-09-01"
   },
   {
     "CO_ANO":2019,
@@ -9440,7 +9936,8 @@
     "country":"Paraguay",
     "mts":0.004,
     "year":"2019",
-    "month":"11"
+    "month":"11",
+    "date":"2019-11-01"
   },
   {
     "CO_ANO":2019,
@@ -9459,7 +9956,8 @@
     "country":"Indonesia",
     "mts":183002.153,
     "year":"2019",
-    "month":"1"
+    "month":"1",
+    "date":"2019-01-01"
   },
   {
     "CO_ANO":2019,
@@ -9478,7 +9976,8 @@
     "country":"Philippines",
     "mts":112495.987,
     "year":"2019",
-    "month":"1"
+    "month":"1",
+    "date":"2019-01-01"
   },
   {
     "CO_ANO":2019,
@@ -9497,7 +9996,8 @@
     "country":"Paraguay",
     "mts":184.028,
     "year":"2019",
-    "month":"4"
+    "month":"4",
+    "date":"2019-04-01"
   },
   {
     "CO_ANO":2019,
@@ -9516,7 +10016,8 @@
     "country":"Vietnam",
     "mts":9000.0,
     "year":"2019",
-    "month":"2"
+    "month":"2",
+    "date":"2019-02-01"
   },
   {
     "CO_ANO":2019,
@@ -9535,7 +10036,8 @@
     "country":"Philippines",
     "mts":7306.791,
     "year":"2019",
-    "month":"2"
+    "month":"2",
+    "date":"2019-02-01"
   },
   {
     "CO_ANO":2019,
@@ -9554,7 +10056,8 @@
     "country":"Philippines",
     "mts":56366.272,
     "year":"2019",
-    "month":"3"
+    "month":"3",
+    "date":"2019-03-01"
   },
   {
     "CO_ANO":2019,
@@ -9573,7 +10076,8 @@
     "country":"Marshall Islands",
     "mts":0.01,
     "year":"2019",
-    "month":"8"
+    "month":"8",
+    "date":"2019-08-01"
   },
   {
     "CO_ANO":2019,
@@ -9592,7 +10096,8 @@
     "country":"Paraguay",
     "mts":150.11,
     "year":"2019",
-    "month":"5"
+    "month":"5",
+    "date":"2019-05-01"
   },
   {
     "CO_ANO":2019,
@@ -9611,7 +10116,8 @@
     "country":"Vietnam",
     "mts":58999.966,
     "year":"2019",
-    "month":"2"
+    "month":"2",
+    "date":"2019-02-01"
   },
   {
     "CO_ANO":2019,
@@ -9630,7 +10136,8 @@
     "country":"Marshall Islands",
     "mts":0.01,
     "year":"2019",
-    "month":"3"
+    "month":"3",
+    "date":"2019-03-01"
   },
   {
     "CO_ANO":2019,
@@ -9649,7 +10156,8 @@
     "country":"Singapore",
     "mts":0.05,
     "year":"2019",
-    "month":"1"
+    "month":"1",
+    "date":"2019-01-01"
   },
   {
     "CO_ANO":2019,
@@ -9668,7 +10176,8 @@
     "country":"Paraguay",
     "mts":32.39,
     "year":"2019",
-    "month":"5"
+    "month":"5",
+    "date":"2019-05-01"
   },
   {
     "CO_ANO":2019,
@@ -9687,7 +10196,8 @@
     "country":"United Kingdom",
     "mts":0.0,
     "year":"2019",
-    "month":"10"
+    "month":"10",
+    "date":"2019-10-01"
   },
   {
     "CO_ANO":2019,
@@ -9706,7 +10216,8 @@
     "country":"Vietnam",
     "mts":36698.004,
     "year":"2019",
-    "month":"12"
+    "month":"12",
+    "date":"2019-12-01"
   },
   {
     "CO_ANO":2019,
@@ -9725,7 +10236,8 @@
     "country":"Indonesia",
     "mts":63527.344,
     "year":"2019",
-    "month":"3"
+    "month":"3",
+    "date":"2019-03-01"
   },
   {
     "CO_ANO":2020,
@@ -9744,7 +10256,8 @@
     "country":"Hong Kong",
     "mts":0.005,
     "year":"2020",
-    "month":"9"
+    "month":"9",
+    "date":"2020-09-01"
   },
   {
     "CO_ANO":2020,
@@ -9763,7 +10276,8 @@
     "country":"Singapore",
     "mts":0.015,
     "year":"2020",
-    "month":"10"
+    "month":"10",
+    "date":"2020-10-01"
   },
   {
     "CO_ANO":2020,
@@ -9782,7 +10296,8 @@
     "country":"Singapore",
     "mts":0.012,
     "year":"2020",
-    "month":"12"
+    "month":"12",
+    "date":"2020-12-01"
   },
   {
     "CO_ANO":2020,
@@ -9801,7 +10316,8 @@
     "country":"Argentina",
     "mts":0.046,
     "year":"2020",
-    "month":"4"
+    "month":"4",
+    "date":"2020-04-01"
   },
   {
     "CO_ANO":2020,
@@ -9820,7 +10336,8 @@
     "country":"Bolivia",
     "mts":2.0,
     "year":"2020",
-    "month":"5"
+    "month":"5",
+    "date":"2020-05-01"
   },
   {
     "CO_ANO":2020,
@@ -9839,7 +10356,8 @@
     "country":"Panama",
     "mts":0.002,
     "year":"2020",
-    "month":"7"
+    "month":"7",
+    "date":"2020-07-01"
   },
   {
     "CO_ANO":2020,
@@ -9858,7 +10376,8 @@
     "country":"Marshall Islands",
     "mts":0.008,
     "year":"2020",
-    "month":"12"
+    "month":"12",
+    "date":"2020-12-01"
   },
   {
     "CO_ANO":2020,
@@ -9877,7 +10396,8 @@
     "country":"Vietnam",
     "mts":69630.995,
     "year":"2020",
-    "month":"12"
+    "month":"12",
+    "date":"2020-12-01"
   },
   {
     "CO_ANO":2020,
@@ -9896,7 +10416,8 @@
     "country":"Saudi Arabia",
     "mts":62459.985,
     "year":"2020",
-    "month":"2"
+    "month":"2",
+    "date":"2020-02-01"
   },
   {
     "CO_ANO":2020,
@@ -9915,7 +10436,8 @@
     "country":"Panama",
     "mts":0.032,
     "year":"2020",
-    "month":"9"
+    "month":"9",
+    "date":"2020-09-01"
   },
   {
     "CO_ANO":2020,
@@ -9934,7 +10456,8 @@
     "country":"Vietnam",
     "mts":61561.277,
     "year":"2020",
-    "month":"3"
+    "month":"3",
+    "date":"2020-03-01"
   },
   {
     "CO_ANO":2020,
@@ -9953,7 +10476,8 @@
     "country":"Indonesia",
     "mts":66000.001,
     "year":"2020",
-    "month":"12"
+    "month":"12",
+    "date":"2020-12-01"
   },
   {
     "CO_ANO":2020,
@@ -9972,7 +10496,8 @@
     "country":"Israel",
     "mts":53999.993,
     "year":"2020",
-    "month":"12"
+    "month":"12",
+    "date":"2020-12-01"
   },
   {
     "CO_ANO":2020,
@@ -9991,7 +10516,8 @@
     "country":"Bosnia and Herzegovina",
     "mts":0.007,
     "year":"2020",
-    "month":"8"
+    "month":"8",
+    "date":"2020-08-01"
   },
   {
     "CO_ANO":2020,
@@ -10010,7 +10536,8 @@
     "country":"Paraguay",
     "mts":0.02,
     "year":"2020",
-    "month":"6"
+    "month":"6",
+    "date":"2020-06-01"
   },
   {
     "CO_ANO":2020,
@@ -10029,7 +10556,8 @@
     "country":"Vietnam",
     "mts":86469.852,
     "year":"2020",
-    "month":"1"
+    "month":"1",
+    "date":"2020-01-01"
   },
   {
     "CO_ANO":2020,
@@ -10048,7 +10576,8 @@
     "country":"Pakistan",
     "mts":65682.992,
     "year":"2020",
-    "month":"12"
+    "month":"12",
+    "date":"2020-12-01"
   },
   {
     "CO_ANO":2020,
@@ -10067,7 +10596,8 @@
     "country":"Austria",
     "mts":0.001,
     "year":"2020",
-    "month":"1"
+    "month":"1",
+    "date":"2020-01-01"
   },
   {
     "CO_ANO":2020,
@@ -10086,7 +10616,8 @@
     "country":"Panama",
     "mts":0.046,
     "year":"2020",
-    "month":"12"
+    "month":"12",
+    "date":"2020-12-01"
   },
   {
     "CO_ANO":2020,
@@ -10105,7 +10636,8 @@
     "country":"Hong Kong",
     "mts":0.011,
     "year":"2020",
-    "month":"8"
+    "month":"8",
+    "date":"2020-08-01"
   },
   {
     "CO_ANO":2020,
@@ -10124,7 +10656,8 @@
     "country":"Paraguay",
     "mts":32.0,
     "year":"2020",
-    "month":"4"
+    "month":"4",
+    "date":"2020-04-01"
   },
   {
     "CO_ANO":2020,
@@ -10143,7 +10676,8 @@
     "country":"Philippines",
     "mts":31801.071,
     "year":"2020",
-    "month":"1"
+    "month":"1",
+    "date":"2020-01-01"
   },
   {
     "CO_ANO":2020,
@@ -10162,7 +10696,8 @@
     "country":"Vietnam",
     "mts":21200.002,
     "year":"2020",
-    "month":"4"
+    "month":"4",
+    "date":"2020-04-01"
   },
   {
     "CO_ANO":2020,
@@ -10181,7 +10716,8 @@
     "country":"Panama",
     "mts":0.041,
     "year":"2020",
-    "month":"8"
+    "month":"8",
+    "date":"2020-08-01"
   },
   {
     "CO_ANO":2020,
@@ -10200,7 +10736,8 @@
     "country":"Singapore",
     "mts":0.035,
     "year":"2020",
-    "month":"9"
+    "month":"9",
+    "date":"2020-09-01"
   },
   {
     "CO_ANO":2020,
@@ -10219,7 +10756,8 @@
     "country":"Vietnam",
     "mts":42018.988,
     "year":"2020",
-    "month":"2"
+    "month":"2",
+    "date":"2020-02-01"
   },
   {
     "CO_ANO":2020,
@@ -10238,7 +10776,8 @@
     "country":"France",
     "mts":0.054,
     "year":"2020",
-    "month":"2"
+    "month":"2",
+    "date":"2020-02-01"
   },
   {
     "CO_ANO":2021,
@@ -10257,7 +10796,8 @@
     "country":"Liberia",
     "mts":0.01,
     "year":"2021",
-    "month":"5"
+    "month":"5",
+    "date":"2021-05-01"
   },
   {
     "CO_ANO":2021,
@@ -10276,7 +10816,8 @@
     "country":"Vietnam",
     "mts":92320.009,
     "year":"2021",
-    "month":"1"
+    "month":"1",
+    "date":"2021-01-01"
   },
   {
     "CO_ANO":2021,
@@ -10295,7 +10836,8 @@
     "country":"Saudi Arabia",
     "mts":69600.01,
     "year":"2021",
-    "month":"1"
+    "month":"1",
+    "date":"2021-01-01"
   },
   {
     "CO_ANO":2021,
@@ -10314,7 +10856,8 @@
     "country":"Liberia",
     "mts":0.005,
     "year":"2021",
-    "month":"3"
+    "month":"3",
+    "date":"2021-03-01"
   },
   {
     "CO_ANO":2021,
@@ -10333,7 +10876,8 @@
     "country":"Vietnam",
     "mts":70335.013,
     "year":"2021",
-    "month":"12"
+    "month":"12",
+    "date":"2021-12-01"
   },
   {
     "CO_ANO":2021,
@@ -10352,7 +10896,8 @@
     "country":"Marshall Islands",
     "mts":0.003,
     "year":"2021",
-    "month":"2"
+    "month":"2",
+    "date":"2021-02-01"
   },
   {
     "CO_ANO":2021,
@@ -10371,7 +10916,8 @@
     "country":"Morocco",
     "mts":45341.508,
     "year":"2021",
-    "month":"3"
+    "month":"3",
+    "date":"2021-03-01"
   },
   {
     "CO_ANO":2021,
@@ -10390,7 +10936,8 @@
     "country":"Pakistan",
     "mts":58999.991,
     "year":"2021",
-    "month":"12"
+    "month":"12",
+    "date":"2021-12-01"
   },
   {
     "CO_ANO":2021,
@@ -10409,7 +10956,8 @@
     "country":"Saudi Arabia",
     "mts":71467.523,
     "year":"2021",
-    "month":"2"
+    "month":"2",
+    "date":"2021-02-01"
   },
   {
     "CO_ANO":2021,
@@ -10428,7 +10976,8 @@
     "country":"Palestine",
     "mts":55114.989,
     "year":"2021",
-    "month":"1"
+    "month":"1",
+    "date":"2021-01-01"
   },
   {
     "CO_ANO":2021,
@@ -10447,7 +10996,8 @@
     "country":"Peru",
     "mts":0.002,
     "year":"2021",
-    "month":"7"
+    "month":"7",
+    "date":"2021-07-01"
   },
   {
     "CO_ANO":2021,
@@ -10466,7 +11016,8 @@
     "country":"Vietnam",
     "mts":49863.31,
     "year":"2021",
-    "month":"2"
+    "month":"2",
+    "date":"2021-02-01"
   },
   {
     "CO_ANO":2021,
@@ -10485,7 +11036,8 @@
     "country":"Portugal",
     "mts":0.003,
     "year":"2021",
-    "month":"11"
+    "month":"11",
+    "date":"2021-11-01"
   },
   {
     "CO_ANO":2021,
@@ -10504,7 +11056,8 @@
     "country":"Saudi Arabia",
     "mts":84000.0,
     "year":"2021",
-    "month":"12"
+    "month":"12",
+    "date":"2021-12-01"
   },
   {
     "CO_ANO":2021,
@@ -10523,7 +11076,8 @@
     "country":"Paraguay",
     "mts":8.0,
     "year":"2021",
-    "month":"3"
+    "month":"3",
+    "date":"2021-03-01"
   },
   {
     "CO_ANO":2021,
@@ -10542,7 +11096,8 @@
     "country":"South Korea",
     "mts":62999.998,
     "year":"2021",
-    "month":"1"
+    "month":"1",
+    "date":"2021-01-01"
   },
   {
     "CO_ANO":2021,
@@ -10561,7 +11116,8 @@
     "country":"Panama",
     "mts":0.01,
     "year":"2021",
-    "month":"11"
+    "month":"11",
+    "date":"2021-11-01"
   },
   {
     "CO_ANO":2021,
@@ -10580,7 +11136,8 @@
     "country":"Indonesia",
     "mts":233765.094,
     "year":"2021",
-    "month":"12"
+    "month":"12",
+    "date":"2021-12-01"
   },
   {
     "CO_ANO":2021,
@@ -10599,7 +11156,8 @@
     "country":"Vietnam",
     "mts":21014.756,
     "year":"2021",
-    "month":"8"
+    "month":"8",
+    "date":"2021-08-01"
   },
   {
     "CO_ANO":2021,
@@ -10618,7 +11176,8 @@
     "country":"Uruguay",
     "mts":4.0,
     "year":"2021",
-    "month":"5"
+    "month":"5",
+    "date":"2021-05-01"
   },
   {
     "CO_ANO":2021,
@@ -10637,7 +11196,8 @@
     "country":"Paraguay",
     "mts":28.0,
     "year":"2021",
-    "month":"3"
+    "month":"3",
+    "date":"2021-03-01"
   },
   {
     "CO_ANO":2021,
@@ -10656,7 +11216,8 @@
     "country":"Thailand",
     "mts":64049.993,
     "year":"2021",
-    "month":"1"
+    "month":"1",
+    "date":"2021-01-01"
   },
   {
     "CO_ANO":2021,
@@ -10675,7 +11236,8 @@
     "country":"Saudi Arabia",
     "mts":93415.052,
     "year":"2021",
-    "month":"12"
+    "month":"12",
+    "date":"2021-12-01"
   },
   {
     "CO_ANO":2021,
@@ -10694,7 +11256,8 @@
     "country":"Belize",
     "mts":0.01,
     "year":"2021",
-    "month":"11"
+    "month":"11",
+    "date":"2021-11-01"
   },
   {
     "CO_ANO":2021,
@@ -10713,7 +11276,8 @@
     "country":"South Africa",
     "mts":0.047,
     "year":"2021",
-    "month":"1"
+    "month":"1",
+    "date":"2021-01-01"
   },
   {
     "CO_ANO":2021,
@@ -10732,7 +11296,8 @@
     "country":"Panama",
     "mts":0.011,
     "year":"2021",
-    "month":"1"
+    "month":"1",
+    "date":"2021-01-01"
   },
   {
     "CO_ANO":2021,
@@ -10751,7 +11316,8 @@
     "country":"Liberia",
     "mts":0.005,
     "year":"2021",
-    "month":"11"
+    "month":"11",
+    "date":"2021-11-01"
   },
   {
     "CO_ANO":2021,
@@ -10770,7 +11336,8 @@
     "country":"Indonesia",
     "mts":56999.994,
     "year":"2021",
-    "month":"1"
+    "month":"1",
+    "date":"2021-01-01"
   },
   {
     "CO_ANO":2021,
@@ -10789,7 +11356,8 @@
     "country":"Marshall Islands",
     "mts":0.015,
     "year":"2021",
-    "month":"9"
+    "month":"9",
+    "date":"2021-09-01"
   },
   {
     "CO_ANO":2021,
@@ -10808,7 +11376,8 @@
     "country":"Peru",
     "mts":0.004,
     "year":"2021",
-    "month":"8"
+    "month":"8",
+    "date":"2021-08-01"
   },
   {
     "CO_ANO":2021,
@@ -10827,7 +11396,8 @@
     "country":"Bolivia",
     "mts":2.0,
     "year":"2021",
-    "month":"4"
+    "month":"4",
+    "date":"2021-04-01"
   },
   {
     "CO_ANO":2022,
@@ -10846,7 +11416,8 @@
     "country":"Saudi Arabia",
     "mts":71219.91,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -10865,7 +11436,8 @@
     "country":"Egypt",
     "mts":24222.258,
     "year":"2022",
-    "month":"4"
+    "month":"4",
+    "date":"2022-04-01"
   },
   {
     "CO_ANO":2022,
@@ -10884,7 +11456,8 @@
     "country":"Marshall Islands",
     "mts":0.02,
     "year":"2022",
-    "month":"4"
+    "month":"4",
+    "date":"2022-04-01"
   },
   {
     "CO_ANO":2022,
@@ -10903,7 +11476,8 @@
     "country":"South Africa",
     "mts":0.139,
     "year":"2022",
-    "month":"6"
+    "month":"6",
+    "date":"2022-06-01"
   },
   {
     "CO_ANO":2022,
@@ -10922,7 +11496,8 @@
     "country":"Liberia",
     "mts":0.008,
     "year":"2022",
-    "month":"7"
+    "month":"7",
+    "date":"2022-07-01"
   },
   {
     "CO_ANO":2022,
@@ -10941,7 +11516,8 @@
     "country":"Cayman Islands",
     "mts":0.004,
     "year":"2022",
-    "month":"6"
+    "month":"6",
+    "date":"2022-06-01"
   },
   {
     "CO_ANO":2022,
@@ -10960,7 +11536,8 @@
     "country":"Morocco",
     "mts":43766.004,
     "year":"2022",
-    "month":"4"
+    "month":"4",
+    "date":"2022-04-01"
   },
   {
     "CO_ANO":2022,
@@ -10979,7 +11556,8 @@
     "country":"Venezuela",
     "mts":30590.081,
     "year":"2022",
-    "month":"12"
+    "month":"12",
+    "date":"2022-12-01"
   },
   {
     "CO_ANO":2022,
@@ -10998,7 +11576,8 @@
     "country":"Mozambique",
     "mts":11000.009,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -11017,7 +11596,8 @@
     "country":"Saudi Arabia",
     "mts":214346.853,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -11036,7 +11616,8 @@
     "country":"Central African Republic",
     "mts":6999.993,
     "year":"2022",
-    "month":"12"
+    "month":"12",
+    "date":"2022-12-01"
   },
   {
     "CO_ANO":2022,
@@ -11055,7 +11636,8 @@
     "country":"South Africa",
     "mts":493.496,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -11074,7 +11656,8 @@
     "country":"Ecuador",
     "mts":24177.678,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11093,7 +11676,8 @@
     "country":"Morocco",
     "mts":129689.997,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -11112,7 +11696,8 @@
     "country":"Uruguay",
     "mts":459.0,
     "year":"2022",
-    "month":"11"
+    "month":"11",
+    "date":"2022-11-01"
   },
   {
     "CO_ANO":2022,
@@ -11131,7 +11716,8 @@
     "country":"Israel",
     "mts":5779.973,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -11150,7 +11736,8 @@
     "country":"Saudi Arabia",
     "mts":153.182,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -11169,7 +11756,8 @@
     "country":"Venezuela",
     "mts":6599.5,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11188,7 +11776,8 @@
     "country":"Vietnam",
     "mts":108559.735,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -11207,7 +11796,8 @@
     "country":"Morocco",
     "mts":93488.309,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -11226,7 +11816,8 @@
     "country":"Paraguay",
     "mts":0.025,
     "year":"2022",
-    "month":"5"
+    "month":"5",
+    "date":"2022-05-01"
   },
   {
     "CO_ANO":2022,
@@ -11245,7 +11836,8 @@
     "country":"South Africa",
     "mts":36289.526,
     "year":"2022",
-    "month":"6"
+    "month":"6",
+    "date":"2022-06-01"
   },
   {
     "CO_ANO":2022,
@@ -11264,7 +11856,8 @@
     "country":"Israel",
     "mts":23528.925,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -11283,7 +11876,8 @@
     "country":"Indonesia",
     "mts":38.338,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -11302,7 +11896,8 @@
     "country":"Egypt",
     "mts":21999.466,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11321,7 +11916,8 @@
     "country":"Angola",
     "mts":2.0,
     "year":"2022",
-    "month":"6"
+    "month":"6",
+    "date":"2022-06-01"
   },
   {
     "CO_ANO":2022,
@@ -11340,7 +11936,8 @@
     "country":"Indonesia",
     "mts":141114.995,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -11359,7 +11956,8 @@
     "country":"Sudan",
     "mts":721.189,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11378,7 +11976,8 @@
     "country":"Ecuador",
     "mts":8522.335,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11397,7 +11996,8 @@
     "country":"Saudi Arabia",
     "mts":46.986,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -11416,7 +12016,8 @@
     "country":"Liberia",
     "mts":0.001,
     "year":"2022",
-    "month":"5"
+    "month":"5",
+    "date":"2022-05-01"
   },
   {
     "CO_ANO":2022,
@@ -11435,7 +12036,8 @@
     "country":"Vietnam",
     "mts":78234.134,
     "year":"2022",
-    "month":"12"
+    "month":"12",
+    "date":"2022-12-01"
   },
   {
     "CO_ANO":2022,
@@ -11454,7 +12056,8 @@
     "country":"Sudan",
     "mts":71719.987,
     "year":"2022",
-    "month":"5"
+    "month":"5",
+    "date":"2022-05-01"
   },
   {
     "CO_ANO":2022,
@@ -11473,7 +12076,8 @@
     "country":"Marshall Islands",
     "mts":0.03,
     "year":"2022",
-    "month":"7"
+    "month":"7",
+    "date":"2022-07-01"
   },
   {
     "CO_ANO":2022,
@@ -11492,7 +12096,8 @@
     "country":"Paraguay",
     "mts":0.01,
     "year":"2022",
-    "month":"7"
+    "month":"7",
+    "date":"2022-07-01"
   },
   {
     "CO_ANO":2022,
@@ -11511,7 +12116,8 @@
     "country":"Morocco",
     "mts":62991.044,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11530,7 +12136,8 @@
     "country":"Angola",
     "mts":36268.942,
     "year":"2022",
-    "month":"5"
+    "month":"5",
+    "date":"2022-05-01"
   },
   {
     "CO_ANO":2022,
@@ -11549,7 +12156,8 @@
     "country":"Egypt",
     "mts":0.54,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11568,7 +12176,8 @@
     "country":"Japan",
     "mts":0.02,
     "year":"2022",
-    "month":"11"
+    "month":"11",
+    "date":"2022-11-01"
   },
   {
     "CO_ANO":2022,
@@ -11587,7 +12196,8 @@
     "country":"Saudi Arabia",
     "mts":134979.992,
     "year":"2022",
-    "month":"12"
+    "month":"12",
+    "date":"2022-12-01"
   },
   {
     "CO_ANO":2022,
@@ -11606,7 +12216,8 @@
     "country":"Marshall Islands",
     "mts":0.025,
     "year":"2022",
-    "month":"8"
+    "month":"8",
+    "date":"2022-08-01"
   },
   {
     "CO_ANO":2022,
@@ -11625,7 +12236,8 @@
     "country":"Pakistan",
     "mts":131.342,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11644,7 +12256,8 @@
     "country":"Morocco",
     "mts":2108.939,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11663,7 +12276,8 @@
     "country":"Hong Kong",
     "mts":0.005,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11682,7 +12296,8 @@
     "country":"Sudan",
     "mts":74778.051,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -11701,7 +12316,8 @@
     "country":"Liberia",
     "mts":0.01,
     "year":"2022",
-    "month":"12"
+    "month":"12",
+    "date":"2022-12-01"
   },
   {
     "CO_ANO":2022,
@@ -11720,7 +12336,8 @@
     "country":"South Africa",
     "mts":84250.734,
     "year":"2022",
-    "month":"12"
+    "month":"12",
+    "date":"2022-12-01"
   },
   {
     "CO_ANO":2022,
@@ -11739,7 +12356,8 @@
     "country":"Marshall Islands",
     "mts":0.01,
     "year":"2022",
-    "month":"6"
+    "month":"6",
+    "date":"2022-06-01"
   },
   {
     "CO_ANO":2022,
@@ -11758,7 +12376,8 @@
     "country":"Liberia",
     "mts":0.01,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11777,7 +12396,8 @@
     "country":"South Africa",
     "mts":1617.583,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11796,7 +12416,8 @@
     "country":"Indonesia",
     "mts":302.61,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11815,7 +12436,8 @@
     "country":"Indonesia",
     "mts":163036.941,
     "year":"2022",
-    "month":"12"
+    "month":"12",
+    "date":"2022-12-01"
   },
   {
     "CO_ANO":2022,
@@ -11834,7 +12456,8 @@
     "country":"South Africa",
     "mts":93347.859,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -11853,7 +12476,8 @@
     "country":"Indonesia",
     "mts":78137.39,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11872,7 +12496,8 @@
     "country":"South Africa",
     "mts":0.226,
     "year":"2022",
-    "month":"12"
+    "month":"12",
+    "date":"2022-12-01"
   },
   {
     "CO_ANO":2022,
@@ -11891,7 +12516,8 @@
     "country":"Saudi Arabia",
     "mts":280.111,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11910,7 +12536,8 @@
     "country":"Vietnam",
     "mts":2.305,
     "year":"2022",
-    "month":"4"
+    "month":"4",
+    "date":"2022-04-01"
   },
   {
     "CO_ANO":2022,
@@ -11929,7 +12556,8 @@
     "country":"Saudi Arabia",
     "mts":212621.879,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -11948,7 +12576,8 @@
     "country":"Sudan",
     "mts":70778.806,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11967,7 +12596,8 @@
     "country":"Marshall Islands",
     "mts":0.009,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -11986,7 +12616,8 @@
     "country":"Vietnam",
     "mts":32002.863,
     "year":"2022",
-    "month":"12"
+    "month":"12",
+    "date":"2022-12-01"
   },
   {
     "CO_ANO":2022,
@@ -12005,7 +12636,8 @@
     "country":"Uruguay",
     "mts":2.0,
     "year":"2022",
-    "month":"4"
+    "month":"4",
+    "date":"2022-04-01"
   },
   {
     "CO_ANO":2022,
@@ -12024,7 +12656,8 @@
     "country":"Pakistan",
     "mts":113388.664,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -12043,7 +12676,8 @@
     "country":"Indonesia",
     "mts":140904.673,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -12062,7 +12696,8 @@
     "country":"South Korea",
     "mts":20.0,
     "year":"2022",
-    "month":"6"
+    "month":"6",
+    "date":"2022-06-01"
   },
   {
     "CO_ANO":2022,
@@ -12081,7 +12716,8 @@
     "country":"Sudan",
     "mts":21.971,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -12100,7 +12736,8 @@
     "country":"Israel",
     "mts":15700.0,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -12119,7 +12756,8 @@
     "country":"Venezuela",
     "mts":17599.995,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -12138,7 +12776,8 @@
     "country":"Vietnam",
     "mts":28967.005,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -12157,7 +12796,8 @@
     "country":"South Africa",
     "mts":300.291,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -12176,7 +12816,8 @@
     "country":"Ecuador",
     "mts":19880.905,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -12195,7 +12836,8 @@
     "country":"Indonesia",
     "mts":71500.015,
     "year":"2022",
-    "month":"11"
+    "month":"11",
+    "date":"2022-11-01"
   },
   {
     "CO_ANO":2022,
@@ -12214,7 +12856,8 @@
     "country":"Portugal",
     "mts":0.002,
     "year":"2022",
-    "month":"5"
+    "month":"5",
+    "date":"2022-05-01"
   },
   {
     "CO_ANO":2022,
@@ -12233,7 +12876,8 @@
     "country":"Israel",
     "mts":9512.07,
     "year":"2022",
-    "month":"1"
+    "month":"1",
+    "date":"2022-01-01"
   },
   {
     "CO_ANO":2022,
@@ -12252,7 +12896,8 @@
     "country":"Uruguay",
     "mts":162.0,
     "year":"2022",
-    "month":"10"
+    "month":"10",
+    "date":"2022-10-01"
   },
   {
     "CO_ANO":2022,
@@ -12271,7 +12916,8 @@
     "country":"Vietnam",
     "mts":0.25,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -12290,7 +12936,8 @@
     "country":"Vietnam",
     "mts":91496.732,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -12309,7 +12956,8 @@
     "country":"Uruguay",
     "mts":0.001,
     "year":"2022",
-    "month":"10"
+    "month":"10",
+    "date":"2022-10-01"
   },
   {
     "CO_ANO":2022,
@@ -12328,7 +12976,8 @@
     "country":"South Africa",
     "mts":106929.179,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -12347,7 +12996,8 @@
     "country":"Ecuador",
     "mts":13013.965,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -12366,7 +13016,8 @@
     "country":"Marshall Islands",
     "mts":0.002,
     "year":"2022",
-    "month":"7"
+    "month":"7",
+    "date":"2022-07-01"
   },
   {
     "CO_ANO":2022,
@@ -12385,7 +13036,8 @@
     "country":"Bangladesh",
     "mts":0.01,
     "year":"2022",
-    "month":"6"
+    "month":"6",
+    "date":"2022-06-01"
   },
   {
     "CO_ANO":2022,
@@ -12404,7 +13056,8 @@
     "country":"Ecuador",
     "mts":33000.012,
     "year":"2022",
-    "month":"3"
+    "month":"3",
+    "date":"2022-03-01"
   },
   {
     "CO_ANO":2022,
@@ -12423,7 +13076,8 @@
     "country":"Marshall Islands",
     "mts":0.02,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -12442,7 +13096,8 @@
     "country":"Angola",
     "mts":56050.846,
     "year":"2022",
-    "month":"4"
+    "month":"4",
+    "date":"2022-04-01"
   },
   {
     "CO_ANO":2022,
@@ -12461,7 +13116,8 @@
     "country":"Vietnam",
     "mts":23126.983,
     "year":"2022",
-    "month":"4"
+    "month":"4",
+    "date":"2022-04-01"
   },
   {
     "CO_ANO":2022,
@@ -12480,7 +13136,8 @@
     "country":"Turkey",
     "mts":125930.028,
     "year":"2022",
-    "month":"2"
+    "month":"2",
+    "date":"2022-02-01"
   },
   {
     "CO_ANO":2022,
@@ -12499,7 +13156,8 @@
     "country":"Marshall Islands",
     "mts":0.005,
     "year":"2022",
-    "month":"11"
+    "month":"11",
+    "date":"2022-11-01"
   },
   {
     "CO_ANO":2023,
@@ -12518,7 +13176,8 @@
     "country":"Barbados",
     "mts":0.009,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -12537,7 +13196,8 @@
     "country":"Ecuador",
     "mts":47.714,
     "year":"2023",
-    "month":"1"
+    "month":"1",
+    "date":"2023-01-01"
   },
   {
     "CO_ANO":2023,
@@ -12556,7 +13216,8 @@
     "country":"Ecuador",
     "mts":3936.207,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -12575,7 +13236,8 @@
     "country":"Paraguay",
     "mts":0.015,
     "year":"2023",
-    "month":"5"
+    "month":"5",
+    "date":"2023-05-01"
   },
   {
     "CO_ANO":2023,
@@ -12594,7 +13256,8 @@
     "country":"Marshall Islands",
     "mts":0.003,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -12613,7 +13276,8 @@
     "country":"Venezuela",
     "mts":36750.0,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -12632,7 +13296,8 @@
     "country":"United Kingdom",
     "mts":0.02,
     "year":"2023",
-    "month":"1"
+    "month":"1",
+    "date":"2023-01-01"
   },
   {
     "CO_ANO":2023,
@@ -12651,7 +13316,8 @@
     "country":"Venezuela",
     "mts":14153.77,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -12670,7 +13336,8 @@
     "country":"Philippines",
     "mts":736.447,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -12689,7 +13356,8 @@
     "country":"Venezuela",
     "mts":541.473,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -12708,7 +13376,8 @@
     "country":"United Kingdom",
     "mts":0.015,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -12727,7 +13396,8 @@
     "country":"Venezuela",
     "mts":63.006,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -12746,7 +13416,8 @@
     "country":"Indonesia",
     "mts":15000.0,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -12765,7 +13436,8 @@
     "country":"Thailand",
     "mts":35336.194,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -12784,7 +13456,8 @@
     "country":"Ecuador",
     "mts":3493.493,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -12803,7 +13476,8 @@
     "country":"Bangladesh",
     "mts":54557.562,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -12822,7 +13496,8 @@
     "country":"Mauritania",
     "mts":22084.0,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -12841,7 +13516,8 @@
     "country":"South Africa",
     "mts":52300.0,
     "year":"2023",
-    "month":"1"
+    "month":"1",
+    "date":"2023-01-01"
   },
   {
     "CO_ANO":2023,
@@ -12860,7 +13536,8 @@
     "country":"Indonesia",
     "mts":199508.96,
     "year":"2023",
-    "month":"1"
+    "month":"1",
+    "date":"2023-01-01"
   },
   {
     "CO_ANO":2023,
@@ -12879,7 +13556,8 @@
     "country":"Venezuela",
     "mts":19311.271,
     "year":"2023",
-    "month":"5"
+    "month":"5",
+    "date":"2023-05-01"
   },
   {
     "CO_ANO":2023,
@@ -12898,7 +13576,8 @@
     "country":"Ecuador",
     "mts":24314.145,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -12917,7 +13596,8 @@
     "country":"Sudan",
     "mts":67231.0,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -12936,7 +13616,8 @@
     "country":"Ecuador",
     "mts":27447.353,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -12955,7 +13636,8 @@
     "country":"Ecuador",
     "mts":22459.454,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -12974,7 +13656,8 @@
     "country":"France",
     "mts":0.004,
     "year":"2023",
-    "month":"10"
+    "month":"10",
+    "date":"2023-10-01"
   },
   {
     "CO_ANO":2023,
@@ -12993,7 +13676,8 @@
     "country":"Philippines",
     "mts":186563.553,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -13012,7 +13696,8 @@
     "country":"Angola",
     "mts":18.0,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13031,7 +13716,8 @@
     "country":"Venezuela",
     "mts":14000.0,
     "year":"2023",
-    "month":"5"
+    "month":"5",
+    "date":"2023-05-01"
   },
   {
     "CO_ANO":2023,
@@ -13050,7 +13736,8 @@
     "country":"Ecuador",
     "mts":9902.1,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13069,7 +13756,8 @@
     "country":"United Kingdom",
     "mts":0.002,
     "year":"2023",
-    "month":"7"
+    "month":"7",
+    "date":"2023-07-01"
   },
   {
     "CO_ANO":2023,
@@ -13088,7 +13776,8 @@
     "country":"Thailand",
     "mts":15534.92,
     "year":"2023",
-    "month":"5"
+    "month":"5",
+    "date":"2023-05-01"
   },
   {
     "CO_ANO":2023,
@@ -13107,7 +13796,8 @@
     "country":"Ecuador",
     "mts":36233.045,
     "year":"2023",
-    "month":"1"
+    "month":"1",
+    "date":"2023-01-01"
   },
   {
     "CO_ANO":2023,
@@ -13126,7 +13816,8 @@
     "country":"Argentina",
     "mts":4.16,
     "year":"2023",
-    "month":"6"
+    "month":"6",
+    "date":"2023-06-01"
   },
   {
     "CO_ANO":2023,
@@ -13145,7 +13836,8 @@
     "country":"Venezuela",
     "mts":24.781,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -13164,7 +13856,8 @@
     "country":"Venezuela",
     "mts":7350.0,
     "year":"2023",
-    "month":"10"
+    "month":"10",
+    "date":"2023-10-01"
   },
   {
     "CO_ANO":2023,
@@ -13183,7 +13876,8 @@
     "country":"Paraguay",
     "mts":10.0,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13202,7 +13896,8 @@
     "country":"Virgin Islands (UK)",
     "mts":3718.57,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -13221,7 +13916,8 @@
     "country":"Mauritania",
     "mts":5000.0,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13240,7 +13936,8 @@
     "country":"Vietnam",
     "mts":80640.53,
     "year":"2023",
-    "month":"1"
+    "month":"1",
+    "date":"2023-01-01"
   },
   {
     "CO_ANO":2023,
@@ -13259,7 +13956,8 @@
     "country":"Vietnam",
     "mts":11578.507,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13278,7 +13976,8 @@
     "country":"Saudi Arabia",
     "mts":64091.249,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -13297,7 +13996,8 @@
     "country":"Mexico",
     "mts":19128.881,
     "year":"2023",
-    "month":"5"
+    "month":"5",
+    "date":"2023-05-01"
   },
   {
     "CO_ANO":2023,
@@ -13316,7 +14016,8 @@
     "country":"Saudi Arabia",
     "mts":71462.184,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13335,7 +14036,8 @@
     "country":"Ecuador",
     "mts":33028.207,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13354,7 +14056,8 @@
     "country":"Venezuela",
     "mts":14700.0,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13373,7 +14076,8 @@
     "country":"Ecuador",
     "mts":207.307,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -13392,7 +14096,8 @@
     "country":"Colombia",
     "mts":60494.074,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -13411,7 +14116,8 @@
     "country":"Algeria",
     "mts":31500.0,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13430,7 +14136,8 @@
     "country":"Mexico",
     "mts":166.309,
     "year":"2023",
-    "month":"5"
+    "month":"5",
+    "date":"2023-05-01"
   },
   {
     "CO_ANO":2023,
@@ -13449,7 +14156,8 @@
     "country":"Ecuador",
     "mts":7922.637,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13468,7 +14176,8 @@
     "country":"Bangladesh",
     "mts":442.438,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13487,7 +14196,8 @@
     "country":"United Kingdom",
     "mts":0.0,
     "year":"2023",
-    "month":"8"
+    "month":"8",
+    "date":"2023-08-01"
   },
   {
     "CO_ANO":2023,
@@ -13506,7 +14216,8 @@
     "country":"Paraguay",
     "mts":189.01,
     "year":"2023",
-    "month":"8"
+    "month":"8",
+    "date":"2023-08-01"
   },
   {
     "CO_ANO":2023,
@@ -13525,7 +14236,8 @@
     "country":"Nigeria",
     "mts":54600.0,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13544,7 +14256,8 @@
     "country":"Bangladesh",
     "mts":107930.0,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -13563,7 +14276,8 @@
     "country":"Ecuador",
     "mts":800.197,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13582,7 +14296,8 @@
     "country":"South Korea",
     "mts":18.0,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -13601,7 +14316,8 @@
     "country":"Bahamas",
     "mts":0.01,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13620,7 +14336,8 @@
     "country":"Indonesia",
     "mts":231234.0,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13639,7 +14356,8 @@
     "country":"Vietnam",
     "mts":1285.0,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13658,7 +14376,8 @@
     "country":"Thailand",
     "mts":1.276,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13677,7 +14396,8 @@
     "country":"Mauritania",
     "mts":58200.0,
     "year":"2023",
-    "month":"1"
+    "month":"1",
+    "date":"2023-01-01"
   },
   {
     "CO_ANO":2023,
@@ -13696,7 +14416,8 @@
     "country":"Vietnam",
     "mts":47472.0,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13715,7 +14436,8 @@
     "country":"Thailand",
     "mts":4655.229,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13734,7 +14456,8 @@
     "country":"Ecuador",
     "mts":26939.199,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -13753,7 +14476,8 @@
     "country":"Barbados",
     "mts":0.01,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -13772,7 +14496,8 @@
     "country":"Nigeria",
     "mts":54900.0,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -13791,7 +14516,8 @@
     "country":"Vietnam",
     "mts":917.113,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -13810,7 +14536,8 @@
     "country":"Vietnam",
     "mts":63302.652,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -13829,7 +14556,8 @@
     "country":"Saudi Arabia",
     "mts":134589.0,
     "year":"2023",
-    "month":"1"
+    "month":"1",
+    "date":"2023-01-01"
   },
   {
     "CO_ANO":2023,
@@ -13848,7 +14576,8 @@
     "country":"Kyrgyzstan",
     "mts":0.04,
     "year":"2023",
-    "month":"7"
+    "month":"7",
+    "date":"2023-07-01"
   },
   {
     "CO_ANO":2023,
@@ -13867,7 +14596,8 @@
     "country":"Turkey",
     "mts":0.01,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -13886,7 +14616,8 @@
     "country":"Colombia",
     "mts":33000.0,
     "year":"2023",
-    "month":"4"
+    "month":"4",
+    "date":"2023-04-01"
   },
   {
     "CO_ANO":2023,
@@ -13905,7 +14636,8 @@
     "country":"Ecuador",
     "mts":1552.647,
     "year":"2023",
-    "month":"12"
+    "month":"12",
+    "date":"2023-12-01"
   },
   {
     "CO_ANO":2023,
@@ -13924,7 +14656,8 @@
     "country":"Thailand",
     "mts":57699.712,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2023,
@@ -13943,7 +14676,8 @@
     "country":"Vietnam",
     "mts":10434.903,
     "year":"2023",
-    "month":"2"
+    "month":"2",
+    "date":"2023-02-01"
   },
   {
     "CO_ANO":2023,
@@ -13962,7 +14696,8 @@
     "country":"United Kingdom",
     "mts":0.005,
     "year":"2023",
-    "month":"7"
+    "month":"7",
+    "date":"2023-07-01"
   },
   {
     "CO_ANO":2023,
@@ -13981,7 +14716,8 @@
     "country":"Indonesia",
     "mts":191461.43,
     "year":"2023",
-    "month":"3"
+    "month":"3",
+    "date":"2023-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14000,7 +14736,8 @@
     "country":"Thailand",
     "mts":88234.495,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14019,7 +14756,8 @@
     "country":"Venezuela",
     "mts":2025.337,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14038,7 +14776,8 @@
     "country":"Vietnam",
     "mts":97773.358,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14057,7 +14796,8 @@
     "country":"Philippines",
     "mts":848.73,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -14076,7 +14816,8 @@
     "country":"Vietnam",
     "mts":81472.157,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14095,7 +14836,8 @@
     "country":"Malta",
     "mts":0.01,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14114,7 +14856,8 @@
     "country":"Venezuela",
     "mts":0.008,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14133,7 +14876,8 @@
     "country":"Ecuador",
     "mts":25878.152,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14152,7 +14896,8 @@
     "country":"Philippines",
     "mts":6.806,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14171,7 +14916,8 @@
     "country":"Vietnam",
     "mts":2005.951,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14190,7 +14936,8 @@
     "country":"Ecuador",
     "mts":5121.848,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14209,7 +14956,8 @@
     "country":"Vietnam",
     "mts":4557.172,
     "year":"2024",
-    "month":"5"
+    "month":"5",
+    "date":"2024-05-01"
   },
   {
     "CO_ANO":2024,
@@ -14228,7 +14976,8 @@
     "country":"Philippines",
     "mts":781.312,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -14247,7 +14996,8 @@
     "country":"Poland",
     "mts":0.0,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -14266,7 +15016,8 @@
     "country":"Philippines",
     "mts":602.706,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -14285,7 +15036,8 @@
     "country":"Vietnam",
     "mts":581.09,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14304,7 +15056,8 @@
     "country":"United Kingdom",
     "mts":0.02,
     "year":"2024",
-    "month":"9"
+    "month":"9",
+    "date":"2024-09-01"
   },
   {
     "CO_ANO":2024,
@@ -14323,7 +15076,8 @@
     "country":"Argentina",
     "mts":0.049,
     "year":"2024",
-    "month":"5"
+    "month":"5",
+    "date":"2024-05-01"
   },
   {
     "CO_ANO":2024,
@@ -14342,7 +15096,8 @@
     "country":"Malta",
     "mts":0.005,
     "year":"2024",
-    "month":"10"
+    "month":"10",
+    "date":"2024-10-01"
   },
   {
     "CO_ANO":2024,
@@ -14361,7 +15116,8 @@
     "country":"Liberia",
     "mts":0.01,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -14380,7 +15136,8 @@
     "country":"Marshall Islands",
     "mts":0.002,
     "year":"2024",
-    "month":"10"
+    "month":"10",
+    "date":"2024-10-01"
   },
   {
     "CO_ANO":2024,
@@ -14399,7 +15156,8 @@
     "country":"South Africa",
     "mts":0.16,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14418,7 +15176,8 @@
     "country":"Ecuador",
     "mts":24146.483,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14437,7 +15196,8 @@
     "country":"Marshall Islands",
     "mts":0.006,
     "year":"2024",
-    "month":"9"
+    "month":"9",
+    "date":"2024-09-01"
   },
   {
     "CO_ANO":2024,
@@ -14456,7 +15216,8 @@
     "country":"Philippines",
     "mts":290146.343,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14475,7 +15236,8 @@
     "country":"Indonesia",
     "mts":24725.0,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -14494,7 +15256,8 @@
     "country":"Philippines",
     "mts":1728.104,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -14513,7 +15276,8 @@
     "country":"Argentina",
     "mts":0.004,
     "year":"2024",
-    "month":"9"
+    "month":"9",
+    "date":"2024-09-01"
   },
   {
     "CO_ANO":2024,
@@ -14532,7 +15296,8 @@
     "country":"Vietnam",
     "mts":0.177,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14551,7 +15316,8 @@
     "country":"Vietnam",
     "mts":779.676,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14570,7 +15336,8 @@
     "country":"Vietnam",
     "mts":1904.734,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -14589,7 +15356,8 @@
     "country":"Bolivia",
     "mts":6.0,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -14608,7 +15376,8 @@
     "country":"South Korea",
     "mts":10.0,
     "year":"2024",
-    "month":"11"
+    "month":"11",
+    "date":"2024-11-01"
   },
   {
     "CO_ANO":2024,
@@ -14627,7 +15396,8 @@
     "country":"Thailand",
     "mts":88.734,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14646,7 +15416,8 @@
     "country":"Vietnam",
     "mts":109797.773,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14665,7 +15436,8 @@
     "country":"Ecuador",
     "mts":59287.41,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -14684,7 +15456,8 @@
     "country":"Philippines",
     "mts":1900.0,
     "year":"2024",
-    "month":"6"
+    "month":"6",
+    "date":"2024-06-01"
   },
   {
     "CO_ANO":2024,
@@ -14703,7 +15476,8 @@
     "country":"Paraguay",
     "mts":5.0,
     "year":"2024",
-    "month":"5"
+    "month":"5",
+    "date":"2024-05-01"
   },
   {
     "CO_ANO":2024,
@@ -14722,7 +15496,8 @@
     "country":"Portugal",
     "mts":0.005,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14741,7 +15516,8 @@
     "country":"Liberia",
     "mts":0.003,
     "year":"2024",
-    "month":"11"
+    "month":"11",
+    "date":"2024-11-01"
   },
   {
     "CO_ANO":2024,
@@ -14760,7 +15536,8 @@
     "country":"Ecuador",
     "mts":73.54,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -14779,7 +15556,8 @@
     "country":"Philippines",
     "mts":7876.529,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14798,7 +15576,8 @@
     "country":"Vietnam",
     "mts":451146.339,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -14817,7 +15596,8 @@
     "country":"Liberia",
     "mts":0.01,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14836,7 +15616,8 @@
     "country":"Venezuela",
     "mts":1785.653,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14855,7 +15636,8 @@
     "country":"Thailand",
     "mts":2495.332,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -14874,7 +15656,8 @@
     "country":"Paraguay",
     "mts":0.16,
     "year":"2024",
-    "month":"6"
+    "month":"6",
+    "date":"2024-06-01"
   },
   {
     "CO_ANO":2024,
@@ -14893,7 +15676,8 @@
     "country":"Ecuador",
     "mts":28139.603,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -14912,7 +15696,8 @@
     "country":"Vietnam",
     "mts":16856.474,
     "year":"2024",
-    "month":"6"
+    "month":"6",
+    "date":"2024-06-01"
   },
   {
     "CO_ANO":2024,
@@ -14931,7 +15716,8 @@
     "country":"Vietnam",
     "mts":285.319,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14950,7 +15736,8 @@
     "country":"Philippines",
     "mts":72402.474,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -14969,7 +15756,8 @@
     "country":"Liberia",
     "mts":0.002,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -14988,7 +15776,8 @@
     "country":"Paraguay",
     "mts":0.07,
     "year":"2024",
-    "month":"5"
+    "month":"5",
+    "date":"2024-05-01"
   },
   {
     "CO_ANO":2024,
@@ -15007,7 +15796,8 @@
     "country":"Philippines",
     "mts":2303.886,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -15026,7 +15816,8 @@
     "country":"Vietnam",
     "mts":20759.561,
     "year":"2024",
-    "month":"5"
+    "month":"5",
+    "date":"2024-05-01"
   },
   {
     "CO_ANO":2024,
@@ -15045,7 +15836,8 @@
     "country":"Argentina",
     "mts":0.231,
     "year":"2024",
-    "month":"7"
+    "month":"7",
+    "date":"2024-07-01"
   },
   {
     "CO_ANO":2024,
@@ -15064,7 +15856,8 @@
     "country":"Ecuador",
     "mts":27556.779,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -15083,7 +15876,8 @@
     "country":"Philippines",
     "mts":11508.638,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -15102,7 +15896,8 @@
     "country":"Paraguay",
     "mts":10.0,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -15121,7 +15916,8 @@
     "country":"Venezuela",
     "mts":5088.48,
     "year":"2024",
-    "month":"7"
+    "month":"7",
+    "date":"2024-07-01"
   },
   {
     "CO_ANO":2024,
@@ -15140,7 +15936,8 @@
     "country":"Philippines",
     "mts":111468.215,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -15159,7 +15956,8 @@
     "country":"Thailand",
     "mts":712.04,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -15178,7 +15976,8 @@
     "country":"Philippines",
     "mts":79233.902,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -15197,7 +15996,8 @@
     "country":"Ecuador",
     "mts":28533.78,
     "year":"2024",
-    "month":"5"
+    "month":"5",
+    "date":"2024-05-01"
   },
   {
     "CO_ANO":2024,
@@ -15216,7 +16016,8 @@
     "country":"Marshall Islands",
     "mts":0.01,
     "year":"2024",
-    "month":"6"
+    "month":"6",
+    "date":"2024-06-01"
   },
   {
     "CO_ANO":2024,
@@ -15235,7 +16036,8 @@
     "country":"Vietnam",
     "mts":1775.668,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -15254,7 +16056,8 @@
     "country":"United Kingdom",
     "mts":0.0,
     "year":"2024",
-    "month":"10"
+    "month":"10",
+    "date":"2024-10-01"
   },
   {
     "CO_ANO":2024,
@@ -15273,7 +16076,8 @@
     "country":"Liberia",
     "mts":0.002,
     "year":"2024",
-    "month":"5"
+    "month":"5",
+    "date":"2024-05-01"
   },
   {
     "CO_ANO":2024,
@@ -15292,7 +16096,8 @@
     "country":"Vietnam",
     "mts":0.12,
     "year":"2024",
-    "month":"6"
+    "month":"6",
+    "date":"2024-06-01"
   },
   {
     "CO_ANO":2024,
@@ -15311,7 +16116,8 @@
     "country":"Philippines",
     "mts":4.661,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -15330,7 +16136,8 @@
     "country":"Vietnam",
     "mts":4499.065,
     "year":"2024",
-    "month":"6"
+    "month":"6",
+    "date":"2024-06-01"
   },
   {
     "CO_ANO":2024,
@@ -15349,7 +16156,8 @@
     "country":"Marshall Islands",
     "mts":0.01,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -15368,7 +16176,8 @@
     "country":"Thailand",
     "mts":39428.97,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -15387,7 +16196,8 @@
     "country":"Thailand",
     "mts":127092.627,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -15406,7 +16216,8 @@
     "country":"Marshall Islands",
     "mts":0.015,
     "year":"2024",
-    "month":"9"
+    "month":"9",
+    "date":"2024-09-01"
   },
   {
     "CO_ANO":2024,
@@ -15425,7 +16236,8 @@
     "country":"Vietnam",
     "mts":1168.238,
     "year":"2024",
-    "month":"5"
+    "month":"5",
+    "date":"2024-05-01"
   },
   {
     "CO_ANO":2024,
@@ -15444,7 +16256,8 @@
     "country":"Venezuela",
     "mts":30878.683,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -15463,7 +16276,8 @@
     "country":"Bahamas",
     "mts":0.01,
     "year":"2024",
-    "month":"9"
+    "month":"9",
+    "date":"2024-09-01"
   },
   {
     "CO_ANO":2024,
@@ -15482,7 +16296,8 @@
     "country":"Philippines",
     "mts":4508.363,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -15501,7 +16316,8 @@
     "country":"Vietnam",
     "mts":1586.389,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -15520,7 +16336,8 @@
     "country":"Ecuador",
     "mts":33000.0,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -15539,7 +16356,8 @@
     "country":"Vietnam",
     "mts":2617.453,
     "year":"2024",
-    "month":"6"
+    "month":"6",
+    "date":"2024-06-01"
   },
   {
     "CO_ANO":2024,
@@ -15558,7 +16376,8 @@
     "country":"Liberia",
     "mts":0.01,
     "year":"2024",
-    "month":"10"
+    "month":"10",
+    "date":"2024-10-01"
   },
   {
     "CO_ANO":2024,
@@ -15577,7 +16396,8 @@
     "country":"Turkey",
     "mts":0.025,
     "year":"2024",
-    "month":"9"
+    "month":"9",
+    "date":"2024-09-01"
   },
   {
     "CO_ANO":2024,
@@ -15596,7 +16416,8 @@
     "country":"Venezuela",
     "mts":24880.0,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -15615,7 +16436,8 @@
     "country":"Argentina",
     "mts":0.121,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -15634,7 +16456,8 @@
     "country":"Cuba",
     "mts":0.21,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -15653,7 +16476,8 @@
     "country":"Barbados",
     "mts":0.01,
     "year":"2024",
-    "month":"5"
+    "month":"5",
+    "date":"2024-05-01"
   },
   {
     "CO_ANO":2024,
@@ -15672,7 +16496,8 @@
     "country":"Ecuador",
     "mts":0.397,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -15691,7 +16516,8 @@
     "country":"Ecuador",
     "mts":3019.776,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -15710,7 +16536,8 @@
     "country":"Vietnam",
     "mts":7694.139,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -15729,7 +16556,8 @@
     "country":"Liberia",
     "mts":0.003,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -15748,7 +16576,8 @@
     "country":"Vietnam",
     "mts":229582.049,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -15767,7 +16596,8 @@
     "country":"Philippines",
     "mts":48451.312,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -15786,7 +16616,8 @@
     "country":"Poland",
     "mts":0.0,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -15805,7 +16636,8 @@
     "country":"Philippines",
     "mts":1092.271,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2024,
@@ -15824,7 +16656,8 @@
     "country":"Philippines",
     "mts":283036.519,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -15843,7 +16676,8 @@
     "country":"Vietnam",
     "mts":11084.013,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -15862,7 +16696,8 @@
     "country":"Thailand",
     "mts":36.556,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -15881,7 +16716,8 @@
     "country":"Vietnam",
     "mts":67660.332,
     "year":"2024",
-    "month":"2"
+    "month":"2",
+    "date":"2024-02-01"
   },
   {
     "CO_ANO":2024,
@@ -15900,7 +16736,8 @@
     "country":"Vietnam",
     "mts":23286.322,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -15919,7 +16756,8 @@
     "country":"Paraguay",
     "mts":0.005,
     "year":"2024",
-    "month":"1"
+    "month":"1",
+    "date":"2024-01-01"
   },
   {
     "CO_ANO":2024,
@@ -15938,7 +16776,8 @@
     "country":"United Kingdom",
     "mts":0.02,
     "year":"2024",
-    "month":"12"
+    "month":"12",
+    "date":"2024-12-01"
   },
   {
     "CO_ANO":2024,
@@ -15957,7 +16796,8 @@
     "country":"Philippines",
     "mts":199.294,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -15976,7 +16816,8 @@
     "country":"Hong Kong",
     "mts":0.01,
     "year":"2024",
-    "month":"10"
+    "month":"10",
+    "date":"2024-10-01"
   },
   {
     "CO_ANO":2024,
@@ -15995,7 +16836,8 @@
     "country":"Vietnam",
     "mts":193126.784,
     "year":"2024",
-    "month":"3"
+    "month":"3",
+    "date":"2024-03-01"
   },
   {
     "CO_ANO":2024,
@@ -16014,7 +16856,8 @@
     "country":"Liberia",
     "mts":0.004,
     "year":"2024",
-    "month":"9"
+    "month":"9",
+    "date":"2024-09-01"
   },
   {
     "CO_ANO":2024,
@@ -16033,7 +16876,8 @@
     "country":"Bahamas",
     "mts":0.015,
     "year":"2024",
-    "month":"4"
+    "month":"4",
+    "date":"2024-04-01"
   },
   {
     "CO_ANO":2025,
@@ -16052,7 +16896,8 @@
     "country":"Liberia",
     "mts":0.005,
     "year":"2025",
-    "month":"5"
+    "month":"5",
+    "date":"2025-05-01"
   },
   {
     "CO_ANO":2025,
@@ -16071,7 +16916,8 @@
     "country":"Ecuador",
     "mts":66170.0,
     "year":"2025",
-    "month":"2"
+    "month":"2",
+    "date":"2025-02-01"
   },
   {
     "CO_ANO":2025,
@@ -16090,7 +16936,8 @@
     "country":"Saudi Arabia",
     "mts":131329.365,
     "year":"2025",
-    "month":"1"
+    "month":"1",
+    "date":"2025-01-01"
   },
   {
     "CO_ANO":2025,
@@ -16109,7 +16956,8 @@
     "country":"Bangladesh",
     "mts":55930.0,
     "year":"2025",
-    "month":"2"
+    "month":"2",
+    "date":"2025-02-01"
   },
   {
     "CO_ANO":2025,
@@ -16128,7 +16976,8 @@
     "country":"Vietnam",
     "mts":443.121,
     "year":"2025",
-    "month":"4"
+    "month":"4",
+    "date":"2025-04-01"
   },
   {
     "CO_ANO":2025,
@@ -16147,7 +16996,8 @@
     "country":"Marshall Islands",
     "mts":0.03,
     "year":"2025",
-    "month":"4"
+    "month":"4",
+    "date":"2025-04-01"
   },
   {
     "CO_ANO":2025,
@@ -16166,7 +17016,8 @@
     "country":"Paraguay",
     "mts":0.126,
     "year":"2025",
-    "month":"3"
+    "month":"3",
+    "date":"2025-03-01"
   },
   {
     "CO_ANO":2025,
@@ -16185,7 +17036,8 @@
     "country":"Antigua and Barbuda",
     "mts":0.005,
     "year":"2025",
-    "month":"4"
+    "month":"4",
+    "date":"2025-04-01"
   },
   {
     "CO_ANO":2025,
@@ -16204,7 +17056,8 @@
     "country":"United Kingdom",
     "mts":0.0,
     "year":"2025",
-    "month":"5"
+    "month":"5",
+    "date":"2025-05-01"
   },
   {
     "CO_ANO":2025,
@@ -16223,7 +17076,8 @@
     "country":"Belize",
     "mts":0.1,
     "year":"2025",
-    "month":"3"
+    "month":"3",
+    "date":"2025-03-01"
   },
   {
     "CO_ANO":2025,
@@ -16242,7 +17096,8 @@
     "country":"Saudi Arabia",
     "mts":67805.0,
     "year":"2025",
-    "month":"2"
+    "month":"2",
+    "date":"2025-02-01"
   },
   {
     "CO_ANO":2025,
@@ -16261,7 +17116,8 @@
     "country":"South Africa",
     "mts":0.078,
     "year":"2025",
-    "month":"3"
+    "month":"3",
+    "date":"2025-03-01"
   },
   {
     "CO_ANO":2025,
@@ -16280,7 +17136,8 @@
     "country":"Vietnam",
     "mts":315949.612,
     "year":"2025",
-    "month":"1"
+    "month":"1",
+    "date":"2025-01-01"
   },
   {
     "CO_ANO":2025,
@@ -16299,7 +17156,8 @@
     "country":"Malta",
     "mts":0.02,
     "year":"2025",
-    "month":"3"
+    "month":"3",
+    "date":"2025-03-01"
   },
   {
     "CO_ANO":2025,
@@ -16318,7 +17176,8 @@
     "country":"Ecuador",
     "mts":36000.0,
     "year":"2025",
-    "month":"1"
+    "month":"1",
+    "date":"2025-01-01"
   },
   {
     "CO_ANO":2025,
@@ -16337,7 +17196,8 @@
     "country":"Argentina",
     "mts":0.025,
     "year":"2025",
-    "month":"6"
+    "month":"6",
+    "date":"2025-06-01"
   },
   {
     "CO_ANO":2025,
@@ -16356,7 +17216,8 @@
     "country":"Vietnam",
     "mts":288979.803,
     "year":"2025",
-    "month":"2"
+    "month":"2",
+    "date":"2025-02-01"
   },
   {
     "CO_ANO":2025,
@@ -16375,7 +17236,8 @@
     "country":"Liberia",
     "mts":0.006,
     "year":"2025",
-    "month":"1"
+    "month":"1",
+    "date":"2025-01-01"
   },
   {
     "CO_ANO":2025,
@@ -16394,7 +17256,8 @@
     "country":"Cuba",
     "mts":0.15,
     "year":"2025",
-    "month":"4"
+    "month":"4",
+    "date":"2025-04-01"
   },
   {
     "CO_ANO":2025,
@@ -16413,7 +17276,8 @@
     "country":"Indonesia",
     "mts":68400.0,
     "year":"2025",
-    "month":"1"
+    "month":"1",
+    "date":"2025-01-01"
   },
   {
     "CO_ANO":2025,
@@ -16432,7 +17296,8 @@
     "country":"Panama",
     "mts":0.05,
     "year":"2025",
-    "month":"5"
+    "month":"5",
+    "date":"2025-05-01"
   },
   {
     "CO_ANO":2025,
@@ -16451,7 +17316,8 @@
     "country":"Singapore",
     "mts":0.004,
     "year":"2025",
-    "month":"1"
+    "month":"1",
+    "date":"2025-01-01"
   },
   {
     "CO_ANO":2025,
@@ -16470,7 +17336,8 @@
     "country":"Argentina",
     "mts":27.0,
     "year":"2025",
-    "month":"5"
+    "month":"5",
+    "date":"2025-05-01"
   },
   {
     "CO_ANO":2025,
@@ -16489,7 +17356,8 @@
     "country":"Bangladesh",
     "mts":57614.45,
     "year":"2025",
-    "month":"3"
+    "month":"3",
+    "date":"2025-03-01"
   },
   {
     "CO_ANO":2025,
@@ -16508,7 +17376,8 @@
     "country":"Paraguay",
     "mts":40.0,
     "year":"2025",
-    "month":"4"
+    "month":"4",
+    "date":"2025-04-01"
   },
   {
     "CO_ANO":2025,
@@ -16527,7 +17396,8 @@
     "country":"Senegal",
     "mts":31394.01,
     "year":"2025",
-    "month":"2"
+    "month":"2",
+    "date":"2025-02-01"
   },
   {
     "CO_ANO":2025,
@@ -16546,7 +17416,8 @@
     "country":"Uruguay",
     "mts":3.0,
     "year":"2025",
-    "month":"5"
+    "month":"5",
+    "date":"2025-05-01"
   },
   {
     "CO_ANO":2025,
@@ -16565,7 +17436,8 @@
     "country":"Liberia",
     "mts":0.01,
     "year":"2025",
-    "month":"3"
+    "month":"3",
+    "date":"2025-03-01"
   },
   {
     "CO_ANO":2025,
@@ -16584,7 +17456,8 @@
     "country":"Ecuador",
     "mts":33000.0,
     "year":"2025",
-    "month":"3"
+    "month":"3",
+    "date":"2025-03-01"
   },
   {
     "CO_ANO":2025,
@@ -16603,7 +17476,8 @@
     "country":"Marshall Islands",
     "mts":0.003,
     "year":"2025",
-    "month":"5"
+    "month":"5",
+    "date":"2025-05-01"
   },
   {
     "CO_ANO":2025,
@@ -16622,7 +17496,8 @@
     "country":"Vietnam",
     "mts":156283.045,
     "year":"2025",
-    "month":"3"
+    "month":"3",
+    "date":"2025-03-01"
   },
   {
     "CO_ANO":2025,
@@ -16641,7 +17516,8 @@
     "country":"Marshall Islands",
     "mts":0.025,
     "year":"2025",
-    "month":"5"
+    "month":"5",
+    "date":"2025-05-01"
   },
   {
     "CO_ANO":2025,
@@ -16660,7 +17536,8 @@
     "country":"Indonesia",
     "mts":118050.0,
     "year":"2025",
-    "month":"2"
+    "month":"2",
+    "date":"2025-02-01"
   },
   {
     "CO_ANO":2025,
@@ -16679,7 +17556,8 @@
     "country":"Hong Kong",
     "mts":0.005,
     "year":"2025",
-    "month":"5"
+    "month":"5",
+    "date":"2025-05-01"
   },
   {
     "CO_ANO":2025,
@@ -16698,7 +17576,8 @@
     "country":"Argentina",
     "mts":14.0,
     "year":"2025",
-    "month":"6"
+    "month":"6",
+    "date":"2025-06-01"
   },
   {
     "CO_ANO":2025,
@@ -16717,7 +17596,8 @@
     "country":"Argentina",
     "mts":0.001,
     "year":"2025",
-    "month":"3"
+    "month":"3",
+    "date":"2025-03-01"
   },
   {
     "CO_ANO":2025,
@@ -16736,6 +17616,7 @@
     "country":"Nigeria",
     "mts":100866.46,
     "year":"2025",
-    "month":"4"
+    "month":"4",
+    "date":"2025-04-01"
   }
 ]
