@@ -958,7 +958,7 @@
       }
     }
   },
-  "Soybean_CornCoProducts_Comex": {
+  "CornCoProducts_Comex": {
     "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_CORNCOPRODUCTS.json",
     "visuals": {
       "ExportMonthly": {
