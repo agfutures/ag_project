@@ -925,5 +925,165 @@
         "viz": ["ExportData"]
       }
     }
+  },
+  "Soybean_Oil_Comex": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_SOYBEAN_OIL.json",
+    "visuals": {
+      "ExportMonthly": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportMonthly"]
+      },
+      "ExportYoYSoybeanOil": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportYoYSoybeanOil"]
+      },
+      "ExportData": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Date",     "field": "date",   "type": "multiselect", "defaultMostRecent": true }
+        ],
+        "viz": ["ExportData"]
+      }
+    }
+  },
+  "Soybean_CornCoProducts_Comex": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_CORNCOPRODUCTS.json",
+    "visuals": {
+      "ExportMonthly": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportMonthly"]
+      },
+      "ExportYoYCornCoProducts": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportYoYCornCoProducts"]
+      },
+      "ExportData": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Date",     "field": "date",   "type": "multiselect", "defaultMostRecent": true }
+        ],
+        "viz": ["ExportData"]
+      }
+    }
+  },
+  "Ethanol_Comex": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_ETHANOL.json",
+    "visuals": {
+      "ExportMonthly": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportMonthly"]
+      },
+      "ExportYoYEthanol": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportYoYEthanol"]
+      },
+      "ExportData": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Date",     "field": "date",   "type": "multiselect", "defaultMostRecent": true }
+        ],
+        "viz": ["ExportData"]
+      }
+    }
+  },
+  "Biodiesel_Comex": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_BIOMASS_BASED_DIESEL.json",
+    "visuals": {
+      "ExportMonthly": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportMonthly"]
+      },
+      "ExportYoYBiomasBasedDiesel": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportYoYBiomasBasedDiesel"]
+      },
+      "ExportData": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Date",     "field": "date",   "type": "multiselect", "defaultMostRecent": true }
+        ],
+        "viz": ["ExportData"]
+      }
+    }
+  },
+  "Renewable_diesel_Comex": {
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/comex_BIOMASS_BASED_DIESEL.json",
+    "visuals": {
+      "ExportMonthly": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportMonthly"]
+      },
+      "ExportYoYBiomasBasedDiesel": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["ExportYoYBiomasBasedDiesel"]
+      },
+      "ExportData": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultMostRecent": true },
+          { "key": "Date",     "field": "date",   "type": "multiselect", "defaultMostRecent": true }
+        ],
+        "viz": ["ExportData"]
+      }
+    }
   }
 }
