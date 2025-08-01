@@ -602,7 +602,7 @@
     }
   },
   "Soybean_Meal_Ers": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/ers_SOYBEAN%20MEAL.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/ers_SOYBEAN_MEAL.json",
     "visuals": {
       "ErsWeekly": {
         "filters": [
@@ -638,7 +638,7 @@
     }
   },
   "Soybean_Oil_Ers": {
-    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/ers_SOYBEAN%20OIL.json",
+    "jsonUrl": "https://raw.githubusercontent.com/agfutures/ag_project/main/docs/ers_SOYBEAN_OIL.json",
     "visuals": {
       "ErsWeekly": {
         "filters": [
