@@ -1097,6 +1097,15 @@
         ],
         "viz": ["ExportMonthly"]
       },
+      "TopCountries": {
+        "filters": [
+          { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
+          { "key": "HSCode",   "field": "CO_NCM", "type": "multiselect", "defaultAll": true},
+          { "key": "Year",      "field": "year",    "type": "multiselect", "defaultAll": true },
+          { "key": "Month",     "field": "month",   "type": "multiselect", "defaultAll": true }
+        ],
+        "viz": ["TopCountries"]
+      },
       "ExportYoYRenewableDiesel": {
         "filters": [
           { "key": "Country",   "field": "country", "type": "multiselect", "defaultAll": true},
