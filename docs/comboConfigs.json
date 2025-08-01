@@ -548,6 +548,15 @@
         ],
         "viz": ["ErsCummulative"]
       },
+      "TopErsCountries": {
+        "filters": [
+          { "key": "Country",     "field": "Country",  "type": "multiselect",  "defaultAll": true  },
+          { "key": "Year",     "field": "MarketYear",  "type": "multiselect",  "defaultAll": true},
+          { "key": "Attributes", "type": "single", "options": ["Weekly_Exports","CMY_Net_Sales","CMY_Gross_Sales","NMY_Net_Sales",
+          "Accum_Exports","CMY_Outstanding_Sales","CMY_Total_Commitments", "NMY_Outstanding_Sales"],"default": "Weekly_Exports" }
+        ],
+        "viz": ["TopErsCountries"]
+      },
       "ErsYoYPattern": {
         "filters": [
           { "key": "Country",     "field": "Country",  "type": "multiselect",  "defaultAll": true  },
