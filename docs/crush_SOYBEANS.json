@@ -17952,7 +17952,7 @@
     "region":"US"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -17971,6 +17971,28 @@
     "domaincat_desc":"NOT SPECIFIED",
     "class_desc":"ALL CLASSES",
     "Value":6111115,
+    "region":"US"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"NATIONAL",
+    "domain_desc":"TOTAL",
+    "state_alpha":"US",
+    "region_desc":null,
+    "commodity_desc":"SOYBEANS",
+    "util_practice_desc":"ALL UTILIZATION PRACTICES",
+    "statisticcat_desc":"CRUSHED",
+    "unit_desc":"TONS",
+    "short_desc":"SOYBEANS - CRUSHED, MEASURED IN TONS",
+    "domaincat_desc":"NOT SPECIFIED",
+    "class_desc":"ALL CLASSES",
+    "Value":5914118,
     "region":"US"
   },
   {
@@ -18062,7 +18084,7 @@
     "region":"ILLINOIS"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -18081,6 +18103,28 @@
     "domaincat_desc":"NOT SPECIFIED",
     "class_desc":"ALL CLASSES",
     "Value":643549,
+    "region":"ILLINOIS"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"REGION : MULTI-STATE",
+    "domain_desc":"TOTAL",
+    "state_alpha":null,
+    "region_desc":"ILLINOIS",
+    "commodity_desc":"SOYBEANS",
+    "util_practice_desc":"ALL UTILIZATION PRACTICES",
+    "statisticcat_desc":"CRUSHED",
+    "unit_desc":"TONS",
+    "short_desc":"SOYBEANS - CRUSHED, MEASURED IN TONS",
+    "domaincat_desc":"NOT SPECIFIED",
+    "class_desc":"ALL CLASSES",
+    "Value":636102,
     "region":"ILLINOIS"
   },
   {
@@ -18172,7 +18216,7 @@
     "region":"IOWA"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -18191,6 +18235,28 @@
     "domaincat_desc":"NOT SPECIFIED",
     "class_desc":"ALL CLASSES",
     "Value":1303682,
+    "region":"IOWA"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"REGION : MULTI-STATE",
+    "domain_desc":"TOTAL",
+    "state_alpha":null,
+    "region_desc":"IOWA",
+    "commodity_desc":"SOYBEANS",
+    "util_practice_desc":"ALL UTILIZATION PRACTICES",
+    "statisticcat_desc":"CRUSHED",
+    "unit_desc":"TONS",
+    "short_desc":"SOYBEANS - CRUSHED, MEASURED IN TONS",
+    "domaincat_desc":"NOT SPECIFIED",
+    "class_desc":"ALL CLASSES",
+    "Value":1264565,
     "region":"IOWA"
   },
   {
@@ -18282,7 +18348,7 @@
     "region":"NORTH & EAST"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -18301,6 +18367,28 @@
     "domaincat_desc":"NOT SPECIFIED",
     "class_desc":"ALL CLASSES",
     "Value":1334313,
+    "region":"NORTH & EAST"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"REGION : MULTI-STATE",
+    "domain_desc":"TOTAL",
+    "state_alpha":null,
+    "region_desc":"NORTH & EAST",
+    "commodity_desc":"SOYBEANS",
+    "util_practice_desc":"ALL UTILIZATION PRACTICES",
+    "statisticcat_desc":"CRUSHED",
+    "unit_desc":"TONS",
+    "short_desc":"SOYBEANS - CRUSHED, MEASURED IN TONS",
+    "domaincat_desc":"NOT SPECIFIED",
+    "class_desc":"ALL CLASSES",
+    "Value":1263143,
     "region":"NORTH & EAST"
   },
   {
@@ -18392,7 +18480,7 @@
     "region":"NORTH CENTRAL"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -18411,6 +18499,28 @@
     "domaincat_desc":"NOT SPECIFIED",
     "class_desc":"ALL CLASSES",
     "Value":1138781,
+    "region":"NORTH CENTRAL"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"REGION : MULTI-STATE",
+    "domain_desc":"TOTAL",
+    "state_alpha":null,
+    "region_desc":"NORTH CENTRAL",
+    "commodity_desc":"SOYBEANS",
+    "util_practice_desc":"ALL UTILIZATION PRACTICES",
+    "statisticcat_desc":"CRUSHED",
+    "unit_desc":"TONS",
+    "short_desc":"SOYBEANS - CRUSHED, MEASURED IN TONS",
+    "domaincat_desc":"NOT SPECIFIED",
+    "class_desc":"ALL CLASSES",
+    "Value":1196451,
     "region":"NORTH CENTRAL"
   },
   {
@@ -18502,7 +18612,7 @@
     "region":"SOUTH, WEST, PACIFIC"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -18521,6 +18631,28 @@
     "domaincat_desc":"NOT SPECIFIED",
     "class_desc":"ALL CLASSES",
     "Value":551218,
+    "region":"SOUTH, WEST, PACIFIC"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"REGION : MULTI-STATE",
+    "domain_desc":"TOTAL",
+    "state_alpha":null,
+    "region_desc":"SOUTH, WEST, PACIFIC",
+    "commodity_desc":"SOYBEANS",
+    "util_practice_desc":"ALL UTILIZATION PRACTICES",
+    "statisticcat_desc":"CRUSHED",
+    "unit_desc":"TONS",
+    "short_desc":"SOYBEANS - CRUSHED, MEASURED IN TONS",
+    "domaincat_desc":"NOT SPECIFIED",
+    "class_desc":"ALL CLASSES",
+    "Value":484689,
     "region":"SOUTH, WEST, PACIFIC"
   },
   {
@@ -18612,7 +18744,7 @@
     "region":"WEST CENTRAL"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -18631,6 +18763,28 @@
     "domaincat_desc":"NOT SPECIFIED",
     "class_desc":"ALL CLASSES",
     "Value":1139572,
+    "region":"WEST CENTRAL"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"REGION : MULTI-STATE",
+    "domain_desc":"TOTAL",
+    "state_alpha":null,
+    "region_desc":"WEST CENTRAL",
+    "commodity_desc":"SOYBEANS",
+    "util_practice_desc":"ALL UTILIZATION PRACTICES",
+    "statisticcat_desc":"CRUSHED",
+    "unit_desc":"TONS",
+    "short_desc":"SOYBEANS - CRUSHED, MEASURED IN TONS",
+    "domaincat_desc":"NOT SPECIFIED",
+    "class_desc":"ALL CLASSES",
+    "Value":1069168,
     "region":"WEST CENTRAL"
   }
 ]

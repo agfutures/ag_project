@@ -13596,7 +13596,7 @@
     "usage":"FOR BEVERAGE ALCOHOL"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -13615,6 +13615,28 @@
     "domaincat_desc":"NOT SPECIFIED",
     "class_desc":"ALL CLASSES",
     "Value":3800000,
+    "usage":"FOR BEVERAGE ALCOHOL"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"NATIONAL",
+    "domain_desc":"TOTAL",
+    "state_alpha":"US",
+    "region_desc":null,
+    "commodity_desc":"CORN",
+    "util_practice_desc":"FOR BEVERAGE ALCOHOL",
+    "statisticcat_desc":"USAGE",
+    "unit_desc":"BU",
+    "short_desc":"CORN, FOR BEVERAGE ALCOHOL - USAGE, MEASURED IN BU",
+    "domaincat_desc":"NOT SPECIFIED",
+    "class_desc":"ALL CLASSES",
+    "Value":3057000,
     "usage":"FOR BEVERAGE ALCOHOL"
   },
   {
@@ -13706,7 +13728,7 @@
     "usage":"FOR FUEL ALCOHOL_DRY"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -13724,7 +13746,29 @@
     "short_desc":"CORN, FOR FUEL ALCOHOL - USAGE, MEASURED IN BU",
     "domaincat_desc":"TYPE OF OPERATION: (DRY MILL PLANT)",
     "class_desc":"ALL CLASSES",
-    "Value":413408000,
+    "Value":408390000,
+    "usage":"FOR FUEL ALCOHOL_DRY"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"NATIONAL",
+    "domain_desc":"TYPE OF OPERATION",
+    "state_alpha":"US",
+    "region_desc":null,
+    "commodity_desc":"CORN",
+    "util_practice_desc":"FOR FUEL ALCOHOL",
+    "statisticcat_desc":"USAGE",
+    "unit_desc":"BU",
+    "short_desc":"CORN, FOR FUEL ALCOHOL - USAGE, MEASURED IN BU",
+    "domaincat_desc":"TYPE OF OPERATION: (DRY MILL PLANT)",
+    "class_desc":"ALL CLASSES",
+    "Value":412115000,
     "usage":"FOR FUEL ALCOHOL_DRY"
   },
   {
@@ -13816,7 +13860,7 @@
     "usage":"FOR FUEL ALCOHOL_WET"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -13835,6 +13879,28 @@
     "domaincat_desc":"TYPE OF OPERATION: (WET MILL PLANT)",
     "class_desc":"ALL CLASSES",
     "Value":36030000,
+    "usage":"FOR FUEL ALCOHOL_WET"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"NATIONAL",
+    "domain_desc":"TYPE OF OPERATION",
+    "state_alpha":"US",
+    "region_desc":null,
+    "commodity_desc":"CORN",
+    "util_practice_desc":"FOR FUEL ALCOHOL",
+    "statisticcat_desc":"USAGE",
+    "unit_desc":"BU",
+    "short_desc":"CORN, FOR FUEL ALCOHOL - USAGE, MEASURED IN BU",
+    "domaincat_desc":"TYPE OF OPERATION: (WET MILL PLANT)",
+    "class_desc":"ALL CLASSES",
+    "Value":35851000,
     "usage":"FOR FUEL ALCOHOL_WET"
   },
   {
@@ -13926,7 +13992,7 @@
     "usage":"FOR INDUSTRIAL ALCOHOL"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -13945,6 +14011,28 @@
     "domaincat_desc":"NOT SPECIFIED",
     "class_desc":"ALL CLASSES",
     "Value":7796000,
+    "usage":"FOR INDUSTRIAL ALCOHOL"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"NATIONAL",
+    "domain_desc":"TOTAL",
+    "state_alpha":"US",
+    "region_desc":null,
+    "commodity_desc":"CORN",
+    "util_practice_desc":"FOR INDUSTRIAL ALCOHOL",
+    "statisticcat_desc":"USAGE",
+    "unit_desc":"BU",
+    "short_desc":"CORN, FOR INDUSTRIAL ALCOHOL - USAGE, MEASURED IN BU",
+    "domaincat_desc":"NOT SPECIFIED",
+    "class_desc":"ALL CLASSES",
+    "Value":7905000,
     "usage":"FOR INDUSTRIAL ALCOHOL"
   },
   {
@@ -14036,7 +14124,7 @@
     "usage":"FOR OTHER PRODUCTS"
   },
   {
-    "load_time":"2025-07-01",
+    "load_time":"2025-08-01",
     "source_desc":"SURVEY",
     "year":2025,
     "freq_desc":"MONTHLY",
@@ -14055,6 +14143,28 @@
     "domaincat_desc":"TYPE OF OPERATION: (WET MILL PLANT)",
     "class_desc":"ALL CLASSES",
     "Value":40438000,
+    "usage":"FOR OTHER PRODUCTS"
+  },
+  {
+    "load_time":"2025-08-01",
+    "source_desc":"SURVEY",
+    "year":2025,
+    "freq_desc":"MONTHLY",
+    "reference_period_desc":"JUN",
+    "begin_code":6,
+    "week_ending":null,
+    "agg_level_desc":"NATIONAL",
+    "domain_desc":"TYPE OF OPERATION",
+    "state_alpha":"US",
+    "region_desc":null,
+    "commodity_desc":"CORN",
+    "util_practice_desc":"FOR OTHER PRODUCTS (EXCL ALCOHOL)",
+    "statisticcat_desc":"USAGE",
+    "unit_desc":"BU",
+    "short_desc":"CORN, FOR OTHER PRODUCTS (EXCL ALCOHOL) - USAGE, MEASURED IN BU",
+    "domaincat_desc":"TYPE OF OPERATION: (WET MILL PLANT)",
+    "class_desc":"ALL CLASSES",
+    "Value":39225000,
     "usage":"FOR OTHER PRODUCTS"
   }
 ]
